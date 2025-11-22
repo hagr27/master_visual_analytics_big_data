@@ -1,5 +1,9 @@
-# Output que devuelve el nombre del clúster de Dataproc creado.
-# Esto permite usar este valor en otros módulos o simplemente visualizarlo al ejecutar `terraform apply`.
 output "cluster_name" {
-  value = google_dataproc_cluster.cluster.name
+  description = "Nombre del clúster Dataproc"
+  value       = google_dataproc_cluster.cluster.name
+}
+
+output "cluster_url" {
+  description = "URL del clúster en la consola de GCP"
+  value       = "https://console.cloud.google.com/dataproc/clusters?project=${var.project_id}"
 }

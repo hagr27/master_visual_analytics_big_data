@@ -9,4 +9,6 @@ resource "google_storage_bucket" "bucket" {
   # Permite eliminar el bucket aunque contenga objetos
   # Útil para limpieza automática durante pruebas o destrucción del entorno
   force_destroy = true
+
+  project = var.project_id
 }

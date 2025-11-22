@@ -9,3 +9,9 @@ variable "bucket_name" {
 variable "region" {
   description = "Región de GCP donde se desplegarán los recursos"
 }
+
+# ID del proyecto de Google Cloud donde se desplegarán los recursos.
+# No es el nombre del proyecto, sino el identificador tipo: 'mi-proyecto-123456'.
+variable "project_id" {
+  description = "ID del proyecto de Google Cloud"
+}

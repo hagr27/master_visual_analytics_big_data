@@ -5,6 +5,8 @@ terraform.tfvars
 terraform/terraform.*
 terraform/.terraform*
 terraform.tfstate*
+.terraform/
+.terraform*
 
 # 03.Bases de Datos para el Big Data (VIDAMA - E) - PER14059 OCT2025
 data_partitioned*

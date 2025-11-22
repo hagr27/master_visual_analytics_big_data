@@ -26,6 +26,7 @@ module "gcs_bucket" {
   source      = "./modules/gcs_bucket"  # Ruta del módulo que crea el bucket
   bucket_name = var.bucket_name         # Nombre del bucket definido por variable
   region      = var.region              # Región donde se creará el bucket
+  project_id   = var.project_id         # ID del proyecto de GCP
 }
 
 ##############################################
