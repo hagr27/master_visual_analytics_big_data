@@ -1,3 +1,15 @@
+# 01.Ingeniería para el Procesado Masivo de Datos (VIDAMA - E) - PER14059 OCT2025
+.env
+credentials_gcp.json
+terraform.tfvars
+terraform/terraform.*
+terraform/.terraform*
+terraform.tfstate*
+
+# 03.Bases de Datos para el Big Data (VIDAMA - E) - PER14059 OCT2025
+data_partitioned*
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
