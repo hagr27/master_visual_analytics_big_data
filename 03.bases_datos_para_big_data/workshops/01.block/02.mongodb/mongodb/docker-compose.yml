@@ -1,26 +1,26 @@
-version: "3.9"
+version: "3.9"  # Versión de Docker Compose
 
 services:
 
-  mongodb:
-    image: mongo:latest
-    container_name: mongodb_03_db
-    restart: always
-    environment:
-      MONGO_INITDB_ROOT_USERNAME: ${MONGO_USER}
-      MONGO_INITDB_ROOT_PASSWORD: ${MONGO_PASSWORD}
+  mongodb:  # Servicio de MongoDB
+    image: mongo:latest  # Imagen oficial de MongoDB (última versión)
+    container_name: mongodb_03_db  # Nombre del contenedor
+    restart: always  # Reinicia automáticamente si el contenedor falla
+    environment:  # Variables de entorno para inicializar MongoDB
+      MONGO_INITDB_ROOT_USERNAME: ${MONGO_USER}  # Usuario root desde .env
+      MONGO_INITDB_ROOT_PASSWORD: ${MONGO_PASSWORD}  # Contraseña root desde .env
     ports:
-      - "27017:27017"   # Exponer solo si necesitas acceso desde fuera
+      - "27017:27017"  # Mapea el puerto 27017 del contenedor al host (acceso desde fuera de Docker)
     volumes:
-      - mongo_data:/data/db
+      - mongodb_data:/data/db  # Persistencia de datos en volumen Docker
     networks:
-      - backend
-    labels:
+      - backend  # Conecta el contenedor a la red interna "backend"
+    labels:  # Etiquetas para organizar o identificar contenedores
       project: 03_bases_datos
       role: database
 
 volumes:
-  mongo_data:
+  mongodb_data:  # Volumen para almacenar datos de MongoDB
 
 networks:
-  backend:
+  backend:  # Red interna para los servicios de Docker Compose
