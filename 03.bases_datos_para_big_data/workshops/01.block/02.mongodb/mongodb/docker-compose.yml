@@ -12,7 +12,7 @@ services:
     ports:
       - "27017:27017"  # Mapea el puerto 27017 del contenedor al host (acceso desde fuera de Docker)
     volumes:
-      - mongodb_data:/data/db  # Persistencia de datos en volumen Docker
+      - ${PATH_MOUNT}mongodb_data:/data/db  # Persistencia de datos en volumen Docker
     networks:
       - backend  # Conecta el contenedor a la red interna "backend"
     labels:  # Etiquetas para organizar o identificar contenedores

@@ -1,8 +1,8 @@
 // Base de Datos para Usuarios, logs.
-use('mydb');
+use('lab_DB02');
 
 // Crear colección usuario
-db.createCollection("usuario");
+db.createCollection("products");
 
 // Insertar usuarios
 db.usuario.insertMany([
