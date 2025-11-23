@@ -7,8 +7,12 @@ terraform.tfstate*
 .terraform/
 .terraform*
 
-# 03.Bases de Datos para el Big Data (VIDAMA - E) - PER14059 OCT2025
+# 03.Bases de Datos para el Big Data (VIDAMA - E) - 1.workshop
 data_partitioned*
+# 2.workshop
+example_001_search.json
+example_004_movies.json
+LabTestDB.compras.json
 
 
 # Byte-compiled / optimized / DLL files

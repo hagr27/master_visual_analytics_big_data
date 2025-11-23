@@ -1,0 +1,7 @@
+{
+  "clientes": {
+    "0": { "nombre": "Carlos", "email": "carlos@example.com" },
+    "1": { "nombre": "Ana", "email": "ana@example.com" },
+    "2": { "nombre": "Luis", "email": "luis@example.com" }
+  }
+}

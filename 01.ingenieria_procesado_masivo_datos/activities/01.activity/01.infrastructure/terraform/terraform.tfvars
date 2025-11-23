@@ -1,6 +1,0 @@
-bucket_name      = "bkt-01-proc-masivo"
-cluster_name     = "dp-01-proc-masivo"
-credentials_file = "../credentials_gcp.json"
-max_age          = "14400s"
-project_id       = "proyecto-master-unir"
-region           = "europe-west1"

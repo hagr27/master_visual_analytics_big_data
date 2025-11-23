@@ -1,0 +1,9 @@
+{
+  "result": {
+    "count": "20330",
+    "events": [
+      { "date": "-299", "description": "Primer evento...", "lang": "es" },
+      { "date": "-298", "description": "Segundo evento...", "lang": "es" }
+    ]
+  }
+}

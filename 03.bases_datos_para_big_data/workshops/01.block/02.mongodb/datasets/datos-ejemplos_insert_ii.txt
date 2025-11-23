@@ -1,0 +1,98 @@
+// Diapo 6
+db.budgets.insertMany([
+{ _id: 1, name: "juan", budget: 5, spent: 8, date: ISODate("2014-03-01T08:00:00Z") },
+{ _id: 2, name: "ana", budget : 4, spent : 4, date: ISODate("2014-03-05T09:00:00Z") },
+{ _id: 3, name: "jorge", budget : 9, spent : 7, date: ISODate("2014-04-01T09:00:00Z") },
+{ _id: 4, name: "manuel", budget : 6, spent : 7, date: ISODate("2014-05-01T09:30:00Z") }
+])
+
+// Diapo 7
+db.sales.insertMany([
+{ "_id" : 1, "item" : "abc", "price" : 10, "quantity" : 2, "date" : ISODate("2014-01-01T08:00:00Z") },
+{ "_id" : 2, "item" : "jkl", "price" : 20, "quantity" : 1, "date" : ISODate("2014-02-03T09:00:00Z") },
+{ "_id" : 3, "item" : "xyz", "price" : 5, "quantity" : 5, "date" : ISODate("2014-02-03T09:05:00Z") },
+{ "_id" : 4, "item" : "abc", "price" : 10, "quantity" : 10, "date" : ISODate("2014-02-15T08:00:00Z") },
+{ "_id" : 5, "item" : "xyz", "price" : 5, "quantity" : 10, "date" : ISODate("2014-02-15T09:12:00Z") }])
+
+// Diapo 8
+db.new_students.insertMany([
+{ "_id": 1, "quizzes": [ 10, 6, 7 ], "labs": [ 5, 8 ], "final": 80, "midterm": 75 },
+{ "_id": 2, "quizzes": [ 9, 10 ], "labs": [ 8, 8 ], "final": 95, "midterm": 80 },
+{ "_id": 3, "quizzes": [ 4, 5, 5 ], "labs": [ 6, 5 ], "final": 78, "midterm": 70 }])
+
+
+// Diapo 9
+db.new_items.insertMany([
+{ _id: 1, value: 9.25 }, { _id: 2, value: 8.73 },
+{ _id: 3, value: 4.32 }, { _id: 4, value: -5.34 }])
+
+//Diapo 11
+db.Warehouse.insertMany([
+{ "_id" : 1, instock: [ "chocolate" ], ordered: [ "butter", "apples" ] },
+{ "_id" : 2, instock: [ "apples", "pudding", "pie" ] },
+{ "_id" : 3, instock: [ "pears", "pecans"], ordered: [ "cherries" ] },
+{ "_id" : 4, instock: [ "ice cream" ], ordered: [ ] }])
+
+// Diapo 17
+db.norders.insertMany([
+   { _id: 1, cust_id: "Ant O. Knee", ord_date: new Date("2020-03-01"), price: 25, items: [ { sku: "oranges", qty: 5, price: 2.5 }, { sku: "apples", qty: 5, price: 2.5 } ], status: "A" },
+   { _id: 2, cust_id: "Ant O. Knee", ord_date: new Date("2020-03-08"), price: 70, items: [ { sku: "oranges", qty: 8, price: 2.5 }, { sku: "chocolates", qty: 5, price: 10 } ], status: "A" },
+   { _id: 3, cust_id: "Busby Bee", ord_date: new Date("2020-03-08"), price: 50, items: [ { sku: "oranges", qty: 10, price: 2.5 }, { sku: "pears", qty: 10, price: 2.5 } ], status: "A" },
+   { _id: 4, cust_id: "Busby Bee", ord_date: new Date("2020-03-18"), price: 25, items: [ { sku: "oranges", qty: 10, price: 2.5 } ], status: "A" },
+   { _id: 5, cust_id: "Busby Bee", ord_date: new Date("2020-03-19"), price: 50, items: [ { sku: "chocolates", qty: 5, price: 10 } ], status: "A"},
+   { _id: 6, cust_id: "Cam Elot", ord_date: new Date("2020-03-19"), price: 35, items: [ { sku: "carrots", qty: 10, price: 1.0 }, { sku: "apples", qty: 10, price: 2.5 } ], status: "A" },
+   { _id: 7, cust_id: "Cam Elot", ord_date: new Date("2020-03-20"), price: 25, items: [ { sku: "oranges", qty: 10, price: 2.5 } ], status: "A" },
+   { _id: 8, cust_id: "Don Quis", ord_date: new Date("2020-03-20"), price: 75, items: [ { sku: "chocolates", qty: 5, price: 10 }, { sku: "apples", qty: 10, price: 2.5 } ], status: "A" },
+   { _id: 9, cust_id: "Don Quis", ord_date: new Date("2020-03-20"), price: 55, items: [ { sku: "carrots", qty: 5, price: 1.0 }, { sku: "apples", qty: 10, price: 2.5 }, { sku: "oranges", qty: 10, price: 2.5 } ], status: "A" },
+   { _id: 10, cust_id: "Don Quis", ord_date: new Date("2020-03-23"), price: 25, items: [ { sku: "oranges", qty: 10, price: 2.5 } ], status: "A" }
+])
+
+// Diapo 24
+db.usersessions.insertMany([
+   { userid: "a", start: ISODate('2020-03-03 14:17:00'), length: 95 },
+   { userid: "b", start: ISODate('2020-03-03 14:23:00'), length: 110 },
+   { userid: "c", start: ISODate('2020-03-03 15:02:00'), length: 120 },
+   { userid: "d", start: ISODate('2020-03-03 16:45:00'), length: 45 },
+   { userid: "a", start: ISODate('2020-03-04 11:05:00'), length: 105 },
+   { userid: "b", start: ISODate('2020-03-04 13:14:00'), length: 120 },
+   { userid: "c", start: ISODate('2020-03-04 17:00:00'), length: 130 },
+   { userid: "d", start: ISODate('2020-03-04 15:37:00'), length: 65 }
+])
+
+// Diapo 27
+db.usersessions.insertMany([
+   { userid: "a", ts: ISODate('2020-03-05 14:17:00'), length: 130 },
+   { userid: "b", ts: ISODate('2020-03-05 14:23:00'), length: 40 },
+   { userid: "c", ts: ISODate('2020-03-05 15:02:00'), length: 110 },
+   { userid: "d", ts: ISODate('2020-03-05 16:45:00'), length: 100 }
+])
+
+// Diapo 28
+db.usersessions.drop();
+
+db.usersessions.insertMany([
+   { userid: "a", start: ISODate('2020-03-03 14:17:00'), length: 95 },
+   { userid: "b", start: ISODate('2020-03-03 14:23:00'), length: 110 },
+   { userid: "c", start: ISODate('2020-03-03 15:02:00'), length: 120 },
+   { userid: "d", start: ISODate('2020-03-03 16:45:00'), length: 45 },
+   { userid: "a", start: ISODate('2020-03-04 11:05:00'), length: 105 },
+   { userid: "b", start: ISODate('2020-03-04 13:14:00'), length: 120 },
+   { userid: "c", start: ISODate('2020-03-04 17:00:00'), length: 130 },
+   { userid: "d", start: ISODate('2020-03-04 15:37:00'), length: 65 }
+])
+
+// Diapositiva 14
+db.orders.insertMany([
+{
+   _id: 1,
+   fruits: [ "apples", "pears", "oranges", "grapes", "bananas" ],
+   vegetables: [ "carrots", "celery", "squash", "carrots" ]
+},
+{
+   _id: 2,
+   fruits: [ "plums", "kiwis", "oranges", "bananas", "apples" ],
+   vegetables: [ "broccoli", "zucchini", "carrots", "onions" ]
+}])
+
+
+

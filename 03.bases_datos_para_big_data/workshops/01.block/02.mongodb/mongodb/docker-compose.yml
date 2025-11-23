@@ -1,0 +1,26 @@
+version: "3.9"
+
+services:
+
+  mongodb:
+    image: mongo:latest
+    container_name: mongodb_03_db
+    restart: always
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: ${MONGO_USER}
+      MONGO_INITDB_ROOT_PASSWORD: ${MONGO_PASSWORD}
+    ports:
+      - "27017:27017"   # Exponer solo si necesitas acceso desde fuera
+    volumes:
+      - mongo_data:/data/db
+    networks:
+      - backend
+    labels:
+      project: 03_bases_datos
+      role: database
+
+volumes:
+  mongo_data:
+
+networks:
+  backend:
