@@ -265,7 +265,28 @@ Si aparece un error temporal:
 - No almacenar datos sensibles.
 - Si vas a dejar de usar el clúster, puedes borrarlo manualmente:
 
-## 8. Fin del Notebook
+---
+## 8. Terraform IaC
+- Parametrizar las variables del fichero **.env**, contiene los objetos a crear en **GCP**:
+   - GOOGLE_CREDENTIALS="../credentials_gcp.json"
+   - PROJECT_ID="proyecto-master-unir"
+   - REGION="europe-west1"
+   - CLUSTER_NAME="dataproc-proc-masivo"
+   - BUCKET_NAME="bucket-proc-masivo"
+   - MAX_AGE="14400s"
+   - NUM_WORKERS=2
+- ejecutar la shell `./deploy.sh`
+
+- Desde la consola ubicarse donde se encuentra la shell de orquestación
+   ```bash
+   # Desplegar
+   ./deploy.sh
+   
+   # Destruir 
+   ./script.sh destroy
+   ```
+
+## 9. Fin del Notebook
 
 Hemos creado un clúster Dataproc con:
 

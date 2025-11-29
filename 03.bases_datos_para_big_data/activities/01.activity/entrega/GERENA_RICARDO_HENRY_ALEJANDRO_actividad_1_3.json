@@ -1,0 +1,3902 @@
+[
+  {
+    "flight_number": "HTY134",
+    "plane": "AWH",
+    "departure": {
+      "airport_name": "ALGECIRAS / HELIPUERTO",
+      "airport_code": "AEI",
+      "terminal": null,
+      "counter": null,
+      "gate": null,
+      "datetime_scheduled": "2018-04-13T10:00:00",
+      "datetime_actual": "2018-04-13T10:03:00",
+      "status_code": "DESPEGADO",
+      "status_text": "El vuelo ha despegado a las 10:03"
+    },
+    "arrival": {
+      "airport_name": "CEUTA",
+      "airport_code": "JCU",
+      "terminal": null,
+      "room": null,
+      "belt": null,
+      "datetime_scheduled": "2018-04-13T10:10:00",
+      "datetime_actual": "2018-04-13T10:12:00",
+      "status_code": "ATERRIZADO",
+      "status_text": "El vuelo ha aterrizado a las 10:12"
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 9.0,
+        "temp_max": 16.0,
+        "description": "Chubascos dispersos"
+      },
+      "arrival": {
+        "temp_min": 11.0,
+        "temp_max": 17.0,
+        "description": "Lluvia"
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:33:45"
+  },
+  {
+    "flight_number": "HTY110",
+    "plane": "AWH",
+    "departure": {
+      "airport_name": "CEUTA",
+      "airport_code": "JCU",
+      "terminal": null,
+      "counter": null,
+      "gate": null,
+      "datetime_scheduled": "2018-04-13T14:15:00",
+      "datetime_actual": "2018-04-13T14:15:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Llegada prevista a las 14:15"
+    },
+    "arrival": {
+      "airport_name": "ALGECIRAS / HELIPUERTO",
+      "airport_code": "AEI",
+      "terminal": null,
+      "room": null,
+      "belt": null,
+      "datetime_scheduled": "2018-04-13T14:30:00",
+      "datetime_actual": "2018-04-13T14:35:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Salida prevista a las 14:35"
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 11.0,
+        "temp_max": 17.0,
+        "description": "Lluvia"
+      },
+      "arrival": {
+        "temp_min": 9.0,
+        "temp_max": 16.0,
+        "description": "Chubascos dispersos"
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:33:47"
+  },
+  {
+    "flight_number": "HTY112",
+    "plane": "AWH",
+    "departure": {
+      "airport_name": "ALGECIRAS / HELIPUERTO",
+      "airport_code": "AEI",
+      "terminal": null,
+      "counter": null,
+      "gate": null,
+      "datetime_scheduled": "2018-04-13T15:05:00",
+      "datetime_actual": "2018-04-13T15:10:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Salida prevista a las 15:10"
+    },
+    "arrival": {
+      "airport_name": "CEUTA",
+      "airport_code": "JCU",
+      "terminal": null,
+      "room": null,
+      "belt": null,
+      "datetime_scheduled": "2018-04-13T15:15:00",
+      "datetime_actual": "2018-04-13T15:15:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Llegada prevista a las 15:15"
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 9.0,
+        "temp_max": 16.0,
+        "description": "Chubascos dispersos"
+      },
+      "arrival": {
+        "temp_min": 11.0,
+        "temp_max": 17.0,
+        "description": "Lluvia"
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:33:48"
+  },
+  {
+    "flight_number": "HTY114",
+    "plane": "AWH",
+    "departure": {
+      "airport_name": "ALGECIRAS / HELIPUERTO",
+      "airport_code": "AEI",
+      "terminal": null,
+      "counter": null,
+      "gate": null,
+      "datetime_scheduled": "2018-04-13T15:35:00",
+      "datetime_actual": "2018-04-13T15:40:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Salida prevista a las 15:40"
+    },
+    "arrival": {
+      "airport_name": "CEUTA",
+      "airport_code": "JCU",
+      "terminal": null,
+      "room": null,
+      "belt": null,
+      "datetime_scheduled": "2018-04-13T15:45:00",
+      "datetime_actual": "2018-04-13T15:45:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Llegada prevista a las 15:45"
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 9.0,
+        "temp_max": 16.0,
+        "description": "Chubascos dispersos"
+      },
+      "arrival": {
+        "temp_min": 11.0,
+        "temp_max": 17.0,
+        "description": "Lluvia"
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:33:50"
+  },
+  {
+    "flight_number": "HTY138",
+    "plane": "AWH",
+    "departure": {
+      "airport_name": "ALGECIRAS / HELIPUERTO",
+      "airport_code": "AEI",
+      "terminal": null,
+      "counter": null,
+      "gate": null,
+      "datetime_scheduled": "2018-04-13T18:45:00",
+      "datetime_actual": "2018-04-13T18:50:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Salida prevista a las 18:50"
+    },
+    "arrival": {
+      "airport_name": "CEUTA",
+      "airport_code": "JCU",
+      "terminal": null,
+      "room": null,
+      "belt": null,
+      "datetime_scheduled": "2018-04-13T18:55:00",
+      "datetime_actual": "2018-04-13T18:55:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Llegada prevista a las 18:55"
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 9.0,
+        "temp_max": 16.0,
+        "description": "Chubascos dispersos"
+      },
+      "arrival": {
+        "temp_min": 11.0,
+        "temp_max": 17.0,
+        "description": "Lluvia"
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:33:51"
+  },
+  {
+    "flight_number": "HTY133",
+    "plane": "AWH",
+    "departure": {
+      "airport_name": "CEUTA",
+      "airport_code": "JCU",
+      "terminal": null,
+      "counter": null,
+      "gate": null,
+      "datetime_scheduled": "2018-04-13T09:45:00",
+      "datetime_actual": "2018-04-13T09:48:00",
+      "status_code": "DESPEGADO",
+      "status_text": "El vuelo ha despegado a las 09:48"
+    },
+    "arrival": {
+      "airport_name": "ALGECIRAS / HELIPUERTO",
+      "airport_code": "AEI",
+      "terminal": null,
+      "room": null,
+      "belt": null,
+      "datetime_scheduled": "2018-04-13T09:55:00",
+      "datetime_actual": "2018-04-13T09:57:00",
+      "status_code": "ATERRIZADO",
+      "status_text": "El vuelo ha aterrizado a las 09:57"
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 11.0,
+        "temp_max": 17.0,
+        "description": "Lluvia"
+      },
+      "arrival": {
+        "temp_min": 9.0,
+        "temp_max": 16.0,
+        "description": "Chubascos dispersos"
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:33:53"
+  },
+  {
+    "flight_number": "HTY109",
+    "plane": "AWH",
+    "departure": {
+      "airport_name": "CEUTA",
+      "airport_code": "JCU",
+      "terminal": null,
+      "counter": null,
+      "gate": null,
+      "datetime_scheduled": "2018-04-13T14:15:00",
+      "datetime_actual": "2018-04-13T14:15:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Salida prevista a las 14:15"
+    },
+    "arrival": {
+      "airport_name": "ALGECIRAS / HELIPUERTO",
+      "airport_code": "AEI",
+      "terminal": null,
+      "room": null,
+      "belt": null,
+      "datetime_scheduled": "2018-04-13T14:25:00",
+      "datetime_actual": "2018-04-13T14:25:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Llegada prevista a las 14:25"
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 11.0,
+        "temp_max": 17.0,
+        "description": "Lluvia"
+      },
+      "arrival": {
+        "temp_min": 9.0,
+        "temp_max": 16.0,
+        "description": "Chubascos dispersos"
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:33:54"
+  },
+  {
+    "flight_number": "HTY111",
+    "plane": "AWH",
+    "departure": {
+      "airport_name": "CEUTA",
+      "airport_code": "JCU",
+      "terminal": null,
+      "counter": null,
+      "gate": null,
+      "datetime_scheduled": "2018-04-13T14:50:00",
+      "datetime_actual": "2018-04-13T14:50:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Salida prevista a las 14:50"
+    },
+    "arrival": {
+      "airport_name": "ALGECIRAS / HELIPUERTO",
+      "airport_code": "AEI",
+      "terminal": null,
+      "room": null,
+      "belt": null,
+      "datetime_scheduled": "2018-04-13T15:00:00",
+      "datetime_actual": "2018-04-13T15:00:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Llegada prevista a las 15:00"
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 11.0,
+        "temp_max": 17.0,
+        "description": "Lluvia"
+      },
+      "arrival": {
+        "temp_min": 9.0,
+        "temp_max": 16.0,
+        "description": "Chubascos dispersos"
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:33:55"
+  },
+  {
+    "flight_number": "HTY113",
+    "plane": "AWH",
+    "departure": {
+      "airport_name": "CEUTA",
+      "airport_code": "JCU",
+      "terminal": null,
+      "counter": null,
+      "gate": null,
+      "datetime_scheduled": "2018-04-13T15:20:00",
+      "datetime_actual": "2018-04-13T15:25:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Salida prevista a las 15:25"
+    },
+    "arrival": {
+      "airport_name": "ALGECIRAS / HELIPUERTO",
+      "airport_code": "AEI",
+      "terminal": null,
+      "room": null,
+      "belt": null,
+      "datetime_scheduled": "2018-04-13T15:30:00",
+      "datetime_actual": "2018-04-13T15:30:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Llegada prevista a las 15:30"
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 11.0,
+        "temp_max": 17.0,
+        "description": "Lluvia"
+      },
+      "arrival": {
+        "temp_min": 9.0,
+        "temp_max": 16.0,
+        "description": "Chubascos dispersos"
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:33:56"
+  },
+  {
+    "flight_number": "HTY137",
+    "plane": "AWH",
+    "departure": {
+      "airport_name": "CEUTA",
+      "airport_code": "JCU",
+      "terminal": null,
+      "counter": null,
+      "gate": null,
+      "datetime_scheduled": "2018-04-13T18:30:00",
+      "datetime_actual": "2018-04-13T18:30:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Salida prevista a las 18:30"
+    },
+    "arrival": {
+      "airport_name": "ALGECIRAS / HELIPUERTO",
+      "airport_code": "AEI",
+      "terminal": null,
+      "room": null,
+      "belt": null,
+      "datetime_scheduled": "2018-04-13T18:40:00",
+      "datetime_actual": "2018-04-13T18:40:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Llegada prevista a las 18:40"
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 11.0,
+        "temp_max": 17.0,
+        "description": "Lluvia"
+      },
+      "arrival": {
+        "temp_min": 9.0,
+        "temp_max": 16.0,
+        "description": "Chubascos dispersos"
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:33:57"
+  },
+  {
+    "flight_number": "IBE0519",
+    "plane": "AIRBUS A319",
+    "departure": {
+      "airport_name": "A CORUÑA",
+      "airport_code": "LCG",
+      "terminal": null,
+      "counter": null,
+      "gate": "3",
+      "datetime_scheduled": "2018-04-13T09:25:00",
+      "datetime_actual": "2018-04-13T09:36:00",
+      "status_code": "DESPEGADO",
+      "status_text": "El vuelo ha despegado a las 09:36"
+    },
+    "arrival": {
+      "airport_name": "MADRID-BARAJAS ADOLFO SUÁREZ",
+      "airport_code": "MAD",
+      "terminal": "4",
+      "room": "10",
+      "belt": "16",
+      "datetime_scheduled": "2018-04-13T10:40:00",
+      "datetime_actual": "2018-04-13T11:04:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Llegada prevista a las 11:04"
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 10.0,
+        "temp_max": 15.0,
+        "description": "Chubascos dispersos"
+      },
+      "arrival": {
+        "temp_min": 6.0,
+        "temp_max": 14.0,
+        "description": "Chubascos dispersos"
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:33:50"
+  },
+  {
+    "flight_number": "TAP1085",
+    "plane": "ATR-42/72",
+    "departure": {
+      "airport_name": "A CORUÑA",
+      "airport_code": "LCG",
+      "terminal": null,
+      "counter": null,
+      "gate": "1",
+      "datetime_scheduled": "2018-04-13T11:00:00",
+      "datetime_actual": "2018-04-13T11:00:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Salida prevista a las 11:00"
+    },
+    "arrival": {
+      "airport_name": "LISBOA",
+      "airport_code": "LIS",
+      "terminal": null,
+      "room": null,
+      "belt": null,
+      "datetime_scheduled": null,
+      "datetime_actual": null,
+      "status_code": "DESCONOCIDO",
+      "status_text": null
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 10.0,
+        "temp_max": 15.0,
+        "description": "Chubascos dispersos"
+      },
+      "arrival": {
+        "temp_min": null,
+        "temp_max": null,
+        "description": null
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:33:51"
+  },
+  {
+    "flight_number": "AEA7234",
+    "plane": "EMBRAER ERJ-195",
+    "departure": {
+      "airport_name": "A CORUÑA",
+      "airport_code": "LCG",
+      "terminal": null,
+      "counter": null,
+      "gate": "3",
+      "datetime_scheduled": "2018-04-13T12:15:00",
+      "datetime_actual": "2018-04-13T12:15:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Salida prevista a las 12:15"
+    },
+    "arrival": {
+      "airport_name": "MADRID-BARAJAS ADOLFO SUÁREZ",
+      "airport_code": "MAD",
+      "terminal": "2",
+      "room": "06",
+      "belt": "17",
+      "datetime_scheduled": "2018-04-13T13:25:00",
+      "datetime_actual": "2018-04-13T13:22:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Llegada prevista a las 13:22"
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 10.0,
+        "temp_max": 15.0,
+        "description": "Chubascos dispersos"
+      },
+      "arrival": {
+        "temp_min": 6.0,
+        "temp_max": 14.0,
+        "description": "Chubascos dispersos"
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:33:52"
+  },
+  {
+    "flight_number": "IBE0513",
+    "plane": "AIRBUS A320",
+    "departure": {
+      "airport_name": "A CORUÑA",
+      "airport_code": "LCG",
+      "terminal": null,
+      "counter": null,
+      "gate": "3",
+      "datetime_scheduled": "2018-04-13T13:35:00",
+      "datetime_actual": "2018-04-13T13:35:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Salida prevista a las 13:35"
+    },
+    "arrival": {
+      "airport_name": "MADRID-BARAJAS ADOLFO SUÁREZ",
+      "airport_code": "MAD",
+      "terminal": "4",
+      "room": "10",
+      "belt": "11",
+      "datetime_scheduled": "2018-04-13T15:00:00",
+      "datetime_actual": "2018-04-13T15:00:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Llegada prevista a las 15:00"
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 10.0,
+        "temp_max": 15.0,
+        "description": "Chubascos dispersos"
+      },
+      "arrival": {
+        "temp_min": 6.0,
+        "temp_max": 14.0,
+        "description": "Chubascos dispersos"
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:33:53"
+  },
+  {
+    "flight_number": "VLG1274",
+    "plane": "32A",
+    "departure": {
+      "airport_name": "A CORUÑA",
+      "airport_code": "LCG",
+      "terminal": null,
+      "counter": null,
+      "gate": "4",
+      "datetime_scheduled": "2018-04-13T14:05:00",
+      "datetime_actual": "2018-04-13T14:05:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Salida prevista a las 14:05"
+    },
+    "arrival": {
+      "airport_name": "VALENCIA",
+      "airport_code": "VLC",
+      "terminal": "1",
+      "room": "3",
+      "belt": "8",
+      "datetime_scheduled": "2018-04-13T15:30:00",
+      "datetime_actual": "2018-04-13T15:30:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Llegada prevista a las 15:30"
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 10.0,
+        "temp_max": 15.0,
+        "description": "Chubascos dispersos"
+      },
+      "arrival": {
+        "temp_min": 11.0,
+        "temp_max": 21.0,
+        "description": "Nubosidad variable"
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:33:54"
+  },
+  {
+    "flight_number": "VLG1298",
+    "plane": "AIRBUS A320",
+    "departure": {
+      "airport_name": "A CORUÑA",
+      "airport_code": "LCG",
+      "terminal": null,
+      "counter": null,
+      "gate": "3",
+      "datetime_scheduled": "2018-04-13T15:05:00",
+      "datetime_actual": "2018-04-13T15:05:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Salida prevista a las 15:05"
+    },
+    "arrival": {
+      "airport_name": "SEVILLA",
+      "airport_code": "SVQ",
+      "terminal": "1",
+      "room": "B",
+      "belt": "3",
+      "datetime_scheduled": "2018-04-13T16:30:00",
+      "datetime_actual": "2018-04-13T16:30:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Llegada prevista a las 16:30"
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 10.0,
+        "temp_max": 15.0,
+        "description": "Chubascos dispersos"
+      },
+      "arrival": {
+        "temp_min": 8.0,
+        "temp_max": 17.0,
+        "description": "Lluvia"
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:33:55"
+  },
+  {
+    "flight_number": "AEA7236",
+    "plane": "EMBRAER ERJ-195",
+    "departure": {
+      "airport_name": "A CORUÑA",
+      "airport_code": "LCG",
+      "terminal": null,
+      "counter": null,
+      "gate": "3",
+      "datetime_scheduled": "2018-04-13T16:15:00",
+      "datetime_actual": "2018-04-13T16:15:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Salida prevista a las 16:15"
+    },
+    "arrival": {
+      "airport_name": "MADRID-BARAJAS ADOLFO SUÁREZ",
+      "airport_code": "MAD",
+      "terminal": "2",
+      "room": "06",
+      "belt": "18",
+      "datetime_scheduled": "2018-04-13T17:25:00",
+      "datetime_actual": "2018-04-13T17:25:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Llegada prevista a las 17:25"
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 10.0,
+        "temp_max": 15.0,
+        "description": "Chubascos dispersos"
+      },
+      "arrival": {
+        "temp_min": 6.0,
+        "temp_max": 14.0,
+        "description": "Chubascos dispersos"
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:33:56"
+  },
+  {
+    "flight_number": "IBE0523",
+    "plane": "AIRBUS A320",
+    "departure": {
+      "airport_name": "A CORUÑA",
+      "airport_code": "LCG",
+      "terminal": null,
+      "counter": null,
+      "gate": "3",
+      "datetime_scheduled": "2018-04-13T17:40:00",
+      "datetime_actual": "2018-04-13T17:40:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Salida prevista a las 17:40"
+    },
+    "arrival": {
+      "airport_name": "MADRID-BARAJAS ADOLFO SUÁREZ",
+      "airport_code": "MAD",
+      "terminal": "4",
+      "room": "10",
+      "belt": "11",
+      "datetime_scheduled": "2018-04-13T18:55:00",
+      "datetime_actual": "2018-04-13T18:55:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Llegada prevista a las 18:55"
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 10.0,
+        "temp_max": 15.0,
+        "description": "Chubascos dispersos"
+      },
+      "arrival": {
+        "temp_min": 6.0,
+        "temp_max": 14.0,
+        "description": "Chubascos dispersos"
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:33:57"
+  },
+  {
+    "flight_number": "VLG1295",
+    "plane": "AIRBUS A320",
+    "departure": {
+      "airport_name": "A CORUÑA",
+      "airport_code": "LCG",
+      "terminal": null,
+      "counter": null,
+      "gate": "1",
+      "datetime_scheduled": "2018-04-13T17:50:00",
+      "datetime_actual": "2018-04-13T17:50:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Salida prevista a las 17:50"
+    },
+    "arrival": {
+      "airport_name": "BARCELONA-EL PRAT",
+      "airport_code": "BCN",
+      "terminal": "T1",
+      "room": "T1_G",
+      "belt": "07",
+      "datetime_scheduled": "2018-04-13T19:25:00",
+      "datetime_actual": "2018-04-13T19:25:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Llegada prevista a las 19:25"
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 10.0,
+        "temp_max": 15.0,
+        "description": "Chubascos dispersos"
+      },
+      "arrival": {
+        "temp_min": 12.0,
+        "temp_max": 17.0,
+        "description": "Lluvia moderada"
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:33:58"
+  },
+  {
+    "flight_number": "VLG7104",
+    "plane": "AIRBUS A320",
+    "departure": {
+      "airport_name": "A CORUÑA",
+      "airport_code": "LCG",
+      "terminal": null,
+      "counter": null,
+      "gate": "4",
+      "datetime_scheduled": "2018-04-13T18:15:00",
+      "datetime_actual": "2018-04-13T18:15:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Salida prevista a las 18:15"
+    },
+    "arrival": {
+      "airport_name": "LONDRES / HEATHROW",
+      "airport_code": "LHR",
+      "terminal": null,
+      "room": null,
+      "belt": null,
+      "datetime_scheduled": null,
+      "datetime_actual": null,
+      "status_code": "DESCONOCIDO",
+      "status_text": null
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 10.0,
+        "temp_max": 15.0,
+        "description": "Chubascos dispersos"
+      },
+      "arrival": {
+        "temp_min": null,
+        "temp_max": null,
+        "description": null
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:33:59"
+  },
+  {
+    "flight_number": "LZF440",
+    "plane": "ATR 42-300/320",
+    "departure": {
+      "airport_name": "BILBAO",
+      "airport_code": "BIO",
+      "terminal": null,
+      "counter": "N",
+      "gate": "2",
+      "datetime_scheduled": "2018-04-13T19:20:00",
+      "datetime_actual": "2018-04-13T19:20:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Llegada prevista a las 19:20"
+    },
+    "arrival": {
+      "airport_name": "A CORUÑA",
+      "airport_code": "LCG",
+      "terminal": null,
+      "room": null,
+      "belt": "6",
+      "datetime_scheduled": "2018-04-13T20:00:00",
+      "datetime_actual": "2018-04-13T20:00:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Salida prevista a las 20:00"
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 7.0,
+        "temp_max": 17.0,
+        "description": "Lluvia"
+      },
+      "arrival": {
+        "temp_min": 10.0,
+        "temp_max": 15.0,
+        "description": "Chubascos dispersos"
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:34:01"
+  },
+  {
+    "flight_number": "AEA7238",
+    "plane": "EMBRAER ERJ-195",
+    "departure": {
+      "airport_name": "A CORUÑA",
+      "airport_code": "LCG",
+      "terminal": null,
+      "counter": null,
+      "gate": "3",
+      "datetime_scheduled": "2018-04-13T20:45:00",
+      "datetime_actual": "2018-04-13T20:45:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Salida prevista a las 20:45"
+    },
+    "arrival": {
+      "airport_name": "MADRID-BARAJAS ADOLFO SUÁREZ",
+      "airport_code": "MAD",
+      "terminal": "2",
+      "room": "06",
+      "belt": "17",
+      "datetime_scheduled": "2018-04-13T21:55:00",
+      "datetime_actual": "2018-04-13T21:55:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Llegada prevista a las 21:55"
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 10.0,
+        "temp_max": 15.0,
+        "description": "Chubascos dispersos"
+      },
+      "arrival": {
+        "temp_min": 6.0,
+        "temp_max": 14.0,
+        "description": "Chubascos dispersos"
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:34:01"
+  },
+  {
+    "flight_number": "VLG1303",
+    "plane": "32A",
+    "departure": {
+      "airport_name": "ALICANTE-ELCHE",
+      "airport_code": "ALC",
+      "terminal": "N",
+      "counter": "10 - 16",
+      "gate": "C43",
+      "datetime_scheduled": "2018-04-13T08:35:00",
+      "datetime_actual": "2018-04-13T09:04:00",
+      "status_code": "DESPEGADO",
+      "status_text": "El vuelo ha despegado a las 09:04"
+    },
+    "arrival": {
+      "airport_name": "BARCELONA-EL PRAT",
+      "airport_code": "BCN",
+      "terminal": "T1",
+      "room": "T1_G",
+      "belt": "08",
+      "datetime_scheduled": "2018-04-13T09:45:00",
+      "datetime_actual": "2018-04-13T10:03:00",
+      "status_code": "ATERRIZADO",
+      "status_text": "El vuelo ha aterrizado a las 10:03"
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 11.0,
+        "temp_max": 18.0,
+        "description": "Nubosidad variable"
+      },
+      "arrival": {
+        "temp_min": 12.0,
+        "temp_max": 17.0,
+        "description": "Lluvia moderada"
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:33:46"
+  },
+  {
+    "flight_number": "AEA4025",
+    "plane": "ATR-72",
+    "departure": {
+      "airport_name": "ALICANTE-ELCHE",
+      "airport_code": "ALC",
+      "terminal": "N",
+      "counter": "90 - 91",
+      "gate": "C42",
+      "datetime_scheduled": "2018-04-13T08:35:00",
+      "datetime_actual": "2018-04-13T08:33:00",
+      "status_code": "DESPEGADO",
+      "status_text": "El vuelo ha despegado a las 08:33"
+    },
+    "arrival": {
+      "airport_name": "PALMA DE MALLORCA",
+      "airport_code": "PMI",
+      "terminal": "N",
+      "room": "NT",
+      "belt": "12",
+      "datetime_scheduled": "2018-04-13T09:45:00",
+      "datetime_actual": "2018-04-13T09:35:00",
+      "status_code": "ATERRIZADO",
+      "status_text": "El vuelo ha aterrizado a las 09:35"
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 11.0,
+        "temp_max": 18.0,
+        "description": "Nubosidad variable"
+      },
+      "arrival": {
+        "temp_min": 12.0,
+        "temp_max": 17.0,
+        "description": "Lluvia"
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:33:47"
+  },
+  {
+    "flight_number": "RYR4019",
+    "plane": "BOEING 737-800 WINGLETS",
+    "departure": {
+      "airport_name": "ALICANTE-ELCHE",
+      "airport_code": "ALC",
+      "terminal": "N",
+      "counter": "50 - 54",
+      "gate": "C39",
+      "datetime_scheduled": "2018-04-13T08:50:00",
+      "datetime_actual": "2018-04-13T08:49:00",
+      "status_code": "DESPEGADO",
+      "status_text": "El vuelo ha despegado a las 08:49"
+    },
+    "arrival": {
+      "airport_name": "COPENHAGUE",
+      "airport_code": "CPH",
+      "terminal": null,
+      "room": null,
+      "belt": null,
+      "datetime_scheduled": null,
+      "datetime_actual": null,
+      "status_code": "DESCONOCIDO",
+      "status_text": null
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 11.0,
+        "temp_max": 18.0,
+        "description": "Nubosidad variable"
+      },
+      "arrival": {
+        "temp_min": null,
+        "temp_max": null,
+        "description": null
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:33:48"
+  },
+  {
+    "flight_number": "RYR8287",
+    "plane": "BOEING 737-800 WINGLETS",
+    "departure": {
+      "airport_name": "ALICANTE-ELCHE",
+      "airport_code": "ALC",
+      "terminal": "N",
+      "counter": "50 - 54",
+      "gate": "B26",
+      "datetime_scheduled": "2018-04-13T09:10:00",
+      "datetime_actual": "2018-04-13T09:12:00",
+      "status_code": "DESPEGADO",
+      "status_text": "El vuelo ha despegado a las 09:12"
+    },
+    "arrival": {
+      "airport_name": "BRISTOL",
+      "airport_code": "BRS",
+      "terminal": null,
+      "room": null,
+      "belt": null,
+      "datetime_scheduled": null,
+      "datetime_actual": null,
+      "status_code": "DESCONOCIDO",
+      "status_text": null
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 11.0,
+        "temp_max": 18.0,
+        "description": "Nubosidad variable"
+      },
+      "arrival": {
+        "temp_min": null,
+        "temp_max": null,
+        "description": null
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:33:49"
+  },
+  {
+    "flight_number": "BEL3772",
+    "plane": "AIRBUS A320",
+    "departure": {
+      "airport_name": "ALICANTE-ELCHE",
+      "airport_code": "ALC",
+      "terminal": "N",
+      "counter": "111 - 112",
+      "gate": "C37",
+      "datetime_scheduled": "2018-04-13T09:15:00",
+      "datetime_actual": "2018-04-13T09:08:00",
+      "status_code": "DESPEGADO",
+      "status_text": "El vuelo ha despegado a las 09:08"
+    },
+    "arrival": {
+      "airport_name": "BRUSELAS",
+      "airport_code": "BRU",
+      "terminal": null,
+      "room": null,
+      "belt": null,
+      "datetime_scheduled": null,
+      "datetime_actual": null,
+      "status_code": "DESCONOCIDO",
+      "status_text": null
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 11.0,
+        "temp_max": 18.0,
+        "description": "Nubosidad variable"
+      },
+      "arrival": {
+        "temp_min": null,
+        "temp_max": null,
+        "description": null
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:33:49"
+  },
+  {
+    "flight_number": "JAF5358",
+    "plane": "7M8",
+    "departure": {
+      "airport_name": "ALICANTE-ELCHE",
+      "airport_code": "ALC",
+      "terminal": "N",
+      "counter": "93 - 94",
+      "gate": "C41",
+      "datetime_scheduled": "2018-04-13T09:20:00",
+      "datetime_actual": "2018-04-13T09:28:00",
+      "status_code": "DESPEGADO",
+      "status_text": "El vuelo ha despegado a las 09:28"
+    },
+    "arrival": {
+      "airport_name": "BRUSELAS",
+      "airport_code": "BRU",
+      "terminal": null,
+      "room": null,
+      "belt": null,
+      "datetime_scheduled": null,
+      "datetime_actual": null,
+      "status_code": "DESCONOCIDO",
+      "status_text": null
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 11.0,
+        "temp_max": 18.0,
+        "description": "Nubosidad variable"
+      },
+      "arrival": {
+        "temp_min": null,
+        "temp_max": null,
+        "description": null
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:33:50"
+  },
+  {
+    "flight_number": "EWG9533",
+    "plane": "32A",
+    "departure": {
+      "airport_name": "ALICANTE-ELCHE",
+      "airport_code": "ALC",
+      "terminal": "N",
+      "counter": "113 - 114",
+      "gate": "C45",
+      "datetime_scheduled": "2018-04-13T09:25:00",
+      "datetime_actual": "2018-04-13T09:36:00",
+      "status_code": "DESPEGADO",
+      "status_text": "El vuelo ha despegado a las 09:36"
+    },
+    "arrival": {
+      "airport_name": "DUSSELDORF",
+      "airport_code": "DUS",
+      "terminal": null,
+      "room": null,
+      "belt": null,
+      "datetime_scheduled": null,
+      "datetime_actual": null,
+      "status_code": "DESCONOCIDO",
+      "status_text": null
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 11.0,
+        "temp_max": 18.0,
+        "description": "Nubosidad variable"
+      },
+      "arrival": {
+        "temp_min": null,
+        "temp_max": null,
+        "description": null
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:33:51"
+  },
+  {
+    "flight_number": "IBK5414",
+    "plane": "BOEING 737-800 WINGLETS",
+    "departure": {
+      "airport_name": "ALICANTE-ELCHE",
+      "airport_code": "ALC",
+      "terminal": "N",
+      "counter": "70 - 75",
+      "gate": "B31",
+      "datetime_scheduled": "2018-04-13T09:30:00",
+      "datetime_actual": "2018-04-13T09:25:00",
+      "status_code": "DESPEGADO",
+      "status_text": "El vuelo ha despegado a las 09:25"
+    },
+    "arrival": {
+      "airport_name": "DUSSELDORF",
+      "airport_code": "DUS",
+      "terminal": null,
+      "room": null,
+      "belt": null,
+      "datetime_scheduled": null,
+      "datetime_actual": null,
+      "status_code": "DESCONOCIDO",
+      "status_text": null
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 11.0,
+        "temp_max": 18.0,
+        "description": "Nubosidad variable"
+      },
+      "arrival": {
+        "temp_min": null,
+        "temp_max": null,
+        "description": null
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:33:53"
+  },
+  {
+    "flight_number": "ANE8391",
+    "plane": "BOMBARDIER CRJ-1000",
+    "departure": {
+      "airport_name": "ALICANTE-ELCHE",
+      "airport_code": "ALC",
+      "terminal": "N",
+      "counter": "20 - 21",
+      "gate": "B30",
+      "datetime_scheduled": "2018-04-13T09:40:00",
+      "datetime_actual": "2018-04-13T09:51:00",
+      "status_code": "DESPEGADO",
+      "status_text": "El vuelo ha despegado a las 09:51"
+    },
+    "arrival": {
+      "airport_name": "MADRID-BARAJAS ADOLFO SUÁREZ",
+      "airport_code": "MAD",
+      "terminal": null,
+      "room": null,
+      "belt": null,
+      "datetime_scheduled": null,
+      "datetime_actual": null,
+      "status_code": "DESCONOCIDO",
+      "status_text": null
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 11.0,
+        "temp_max": 18.0,
+        "description": "Nubosidad variable"
+      },
+      "arrival": {
+        "temp_min": null,
+        "temp_max": null,
+        "description": null
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:33:55"
+  },
+  {
+    "flight_number": "JAF5842",
+    "plane": "BOEING 737-700 WINGLETS",
+    "departure": {
+      "airport_name": "ALICANTE-ELCHE",
+      "airport_code": "ALC",
+      "terminal": "N",
+      "counter": "95 - 96",
+      "gate": "B35",
+      "datetime_scheduled": "2018-04-13T09:45:00",
+      "datetime_actual": "2018-04-13T09:40:00",
+      "status_code": "DESPEGADO",
+      "status_text": "El vuelo ha despegado a las 09:40"
+    },
+    "arrival": {
+      "airport_name": "BRUSELAS /CHARLEROI",
+      "airport_code": "CRL",
+      "terminal": null,
+      "room": null,
+      "belt": null,
+      "datetime_scheduled": null,
+      "datetime_actual": null,
+      "status_code": "DESCONOCIDO",
+      "status_text": null
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 11.0,
+        "temp_max": 18.0,
+        "description": "Nubosidad variable"
+      },
+      "arrival": {
+        "temp_min": null,
+        "temp_max": null,
+        "description": null
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:33:57"
+  },
+  {
+    "flight_number": "EZY8660",
+    "plane": "AIRBUS A319",
+    "departure": {
+      "airport_name": "ALICANTE-ELCHE",
+      "airport_code": "ALC",
+      "terminal": "N",
+      "counter": "150 - 155",
+      "gate": "B27",
+      "datetime_scheduled": "2018-04-13T09:55:00",
+      "datetime_actual": "2018-04-13T10:25:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Salida prevista a las 10:25"
+    },
+    "arrival": {
+      "airport_name": "LONDRES /GATWICK",
+      "airport_code": "LGW",
+      "terminal": null,
+      "room": null,
+      "belt": null,
+      "datetime_scheduled": null,
+      "datetime_actual": null,
+      "status_code": "DESCONOCIDO",
+      "status_text": null
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 11.0,
+        "temp_max": 18.0,
+        "description": "Nubosidad variable"
+      },
+      "arrival": {
+        "temp_min": null,
+        "temp_max": null,
+        "description": null
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:33:58"
+  },
+  {
+    "flight_number": "ENT520",
+    "plane": "BOEING 737-800 WINGLETS",
+    "departure": {
+      "airport_name": "ALICANTE-ELCHE",
+      "airport_code": "ALC",
+      "terminal": "N",
+      "counter": "17 - 18",
+      "gate": "C40",
+      "datetime_scheduled": "2018-04-13T10:00:00",
+      "datetime_actual": "2018-04-13T10:16:00",
+      "status_code": "DESPEGADO",
+      "status_text": "El vuelo ha despegado a las 10:16"
+    },
+    "arrival": {
+      "airport_name": "BUDAPEST",
+      "airport_code": "BUD",
+      "terminal": null,
+      "room": null,
+      "belt": null,
+      "datetime_scheduled": null,
+      "datetime_actual": null,
+      "status_code": "DESCONOCIDO",
+      "status_text": null
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 11.0,
+        "temp_max": 18.0,
+        "description": "Nubosidad variable"
+      },
+      "arrival": {
+        "temp_min": null,
+        "temp_max": null,
+        "description": null
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:34:04"
+  },
+  {
+    "flight_number": "TRA6144",
+    "plane": "BOEING 737-800 WINGLETS",
+    "departure": {
+      "airport_name": "ALICANTE-ELCHE",
+      "airport_code": "ALC",
+      "terminal": "N",
+      "counter": "116 - 121",
+      "gate": "C43",
+      "datetime_scheduled": "2018-04-13T10:10:00",
+      "datetime_actual": "2018-04-13T10:21:00",
+      "status_code": "DESPEGADO",
+      "status_text": "El vuelo ha despegado a las 10:21"
+    },
+    "arrival": {
+      "airport_name": "AMSTERDAM /SCHIPHOL",
+      "airport_code": "AMS",
+      "terminal": null,
+      "room": null,
+      "belt": null,
+      "datetime_scheduled": null,
+      "datetime_actual": null,
+      "status_code": "DESCONOCIDO",
+      "status_text": null
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 11.0,
+        "temp_max": 18.0,
+        "description": "Nubosidad variable"
+      },
+      "arrival": {
+        "temp_min": null,
+        "temp_max": null,
+        "description": null
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:34:05"
+  },
+  {
+    "flight_number": "TRA6626",
+    "plane": "BOEING 737-800 WINGLETS",
+    "departure": {
+      "airport_name": "ALICANTE-ELCHE",
+      "airport_code": "ALC",
+      "terminal": "N",
+      "counter": "116 - 121",
+      "gate": "C47",
+      "datetime_scheduled": "2018-04-13T10:10:00",
+      "datetime_actual": "2018-04-13T11:50:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Salida prevista a las 11:50"
+    },
+    "arrival": {
+      "airport_name": "EINDHOVEN",
+      "airport_code": "EIN",
+      "terminal": null,
+      "room": null,
+      "belt": null,
+      "datetime_scheduled": null,
+      "datetime_actual": null,
+      "status_code": "DESCONOCIDO",
+      "status_text": null
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 11.0,
+        "temp_max": 18.0,
+        "description": "Nubosidad variable"
+      },
+      "arrival": {
+        "temp_min": null,
+        "temp_max": null,
+        "description": null
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:34:06"
+  },
+  {
+    "flight_number": "TRA5052",
+    "plane": "BOEING 737-700 WINGLETS",
+    "departure": {
+      "airport_name": "ALICANTE-ELCHE",
+      "airport_code": "ALC",
+      "terminal": "N",
+      "counter": "116 - 121",
+      "gate": "C49",
+      "datetime_scheduled": "2018-04-13T10:10:00",
+      "datetime_actual": "2018-04-13T10:15:00",
+      "status_code": "DESPEGADO",
+      "status_text": "El vuelo ha despegado a las 10:15"
+    },
+    "arrival": {
+      "airport_name": "ROTTERDAM",
+      "airport_code": "RTM",
+      "terminal": null,
+      "room": null,
+      "belt": null,
+      "datetime_scheduled": null,
+      "datetime_actual": null,
+      "status_code": "DESCONOCIDO",
+      "status_text": null
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 11.0,
+        "temp_max": 18.0,
+        "description": "Nubosidad variable"
+      },
+      "arrival": {
+        "temp_min": null,
+        "temp_max": null,
+        "description": null
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:34:07"
+  },
+  {
+    "flight_number": "VLG1392",
+    "plane": "32A",
+    "departure": {
+      "airport_name": "ALICANTE-ELCHE",
+      "airport_code": "ALC",
+      "terminal": "N",
+      "counter": "10 - 12",
+      "gate": "C42",
+      "datetime_scheduled": "2018-04-13T10:20:00",
+      "datetime_actual": "2018-04-13T10:18:00",
+      "status_code": "DESPEGADO",
+      "status_text": "El vuelo ha despegado a las 10:18"
+    },
+    "arrival": {
+      "airport_name": "MILAN /MALPENSA",
+      "airport_code": "MXP",
+      "terminal": null,
+      "room": null,
+      "belt": null,
+      "datetime_scheduled": null,
+      "datetime_actual": null,
+      "status_code": "DESCONOCIDO",
+      "status_text": null
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 11.0,
+        "temp_max": 18.0,
+        "description": "Nubosidad variable"
+      },
+      "arrival": {
+        "temp_min": null,
+        "temp_max": null,
+        "description": null
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:34:08"
+  },
+  {
+    "flight_number": "VLG1374",
+    "plane": "AIRBUS A320",
+    "departure": {
+      "airport_name": "ALICANTE-ELCHE",
+      "airport_code": "ALC",
+      "terminal": "N",
+      "counter": "10 - 12",
+      "gate": "C39",
+      "datetime_scheduled": "2018-04-13T10:20:00",
+      "datetime_actual": "2018-04-13T10:20:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Salida prevista a las 10:20"
+    },
+    "arrival": {
+      "airport_name": "AMSTERDAM /SCHIPHOL",
+      "airport_code": "AMS",
+      "terminal": null,
+      "room": null,
+      "belt": null,
+      "datetime_scheduled": null,
+      "datetime_actual": null,
+      "status_code": "DESCONOCIDO",
+      "status_text": null
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 11.0,
+        "temp_max": 18.0,
+        "description": "Nubosidad variable"
+      },
+      "arrival": {
+        "temp_min": null,
+        "temp_max": null,
+        "description": null
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:34:09"
+  },
+  {
+    "flight_number": "IBE8213",
+    "plane": "CANADAIR CRJ-200",
+    "departure": {
+      "airport_name": "ALMERIA",
+      "airport_code": "LEI",
+      "terminal": "1",
+      "counter": "19 - 21",
+      "gate": "2",
+      "datetime_scheduled": "2018-04-13T10:05:00",
+      "datetime_actual": "2018-04-13T09:57:00",
+      "status_code": "DESPEGADO",
+      "status_text": "El vuelo ha despegado a las 09:57"
+    },
+    "arrival": {
+      "airport_name": "PALMA DE MALLORCA",
+      "airport_code": "PMI",
+      "terminal": null,
+      "room": null,
+      "belt": null,
+      "datetime_scheduled": null,
+      "datetime_actual": null,
+      "status_code": "DESCONOCIDO",
+      "status_text": null
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 8.0,
+        "temp_max": 17.0,
+        "description": "Chubascos dispersos"
+      },
+      "arrival": {
+        "temp_min": null,
+        "temp_max": null,
+        "description": null
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:33:49"
+  },
+  {
+    "flight_number": "EZY8164",
+    "plane": "AIRBUS A320",
+    "departure": {
+      "airport_name": "ALMERIA",
+      "airport_code": "LEI",
+      "terminal": "1",
+      "counter": "13 - 14",
+      "gate": "5",
+      "datetime_scheduled": "2018-04-13T10:05:00",
+      "datetime_actual": "2018-04-13T10:11:00",
+      "status_code": "DESPEGADO",
+      "status_text": "El vuelo ha despegado a las 10:11"
+    },
+    "arrival": {
+      "airport_name": "LONDRES /GATWICK",
+      "airport_code": "LGW",
+      "terminal": null,
+      "room": null,
+      "belt": null,
+      "datetime_scheduled": null,
+      "datetime_actual": null,
+      "status_code": "DESCONOCIDO",
+      "status_text": null
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 8.0,
+        "temp_max": 17.0,
+        "description": "Chubascos dispersos"
+      },
+      "arrival": {
+        "temp_min": null,
+        "temp_max": null,
+        "description": null
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:33:51"
+  },
+  {
+    "flight_number": "IBE8595",
+    "plane": "BOMBARDIER CRJ-1000",
+    "departure": {
+      "airport_name": "ALMERIA",
+      "airport_code": "LEI",
+      "terminal": "1",
+      "counter": "19 - 21",
+      "gate": "3",
+      "datetime_scheduled": "2018-04-13T10:40:00",
+      "datetime_actual": "2018-04-13T10:40:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Salida prevista a las 10:40"
+    },
+    "arrival": {
+      "airport_name": "MADRID-BARAJAS ADOLFO SUÁREZ",
+      "airport_code": "MAD",
+      "terminal": "4",
+      "room": "10",
+      "belt": "19",
+      "datetime_scheduled": "2018-04-13T11:50:00",
+      "datetime_actual": "2018-04-13T11:46:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Llegada prevista a las 11:46"
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 8.0,
+        "temp_max": 17.0,
+        "description": "Chubascos dispersos"
+      },
+      "arrival": {
+        "temp_min": 6.0,
+        "temp_max": 14.0,
+        "description": "Chubascos dispersos"
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:33:53"
+  },
+  {
+    "flight_number": "RYR8352",
+    "plane": "BOEING 737-800 WINGLETS",
+    "departure": {
+      "airport_name": "ALMERIA",
+      "airport_code": "LEI",
+      "terminal": "1",
+      "counter": "10 - 9",
+      "gate": "4",
+      "datetime_scheduled": "2018-04-13T11:15:00",
+      "datetime_actual": "2018-04-13T11:20:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Salida prevista a las 11:20"
+    },
+    "arrival": {
+      "airport_name": "LONDRES /STANSTED",
+      "airport_code": "STN",
+      "terminal": null,
+      "room": null,
+      "belt": null,
+      "datetime_scheduled": null,
+      "datetime_actual": null,
+      "status_code": "DESCONOCIDO",
+      "status_text": null
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 8.0,
+        "temp_max": 17.0,
+        "description": "Chubascos dispersos"
+      },
+      "arrival": {
+        "temp_min": null,
+        "temp_max": null,
+        "description": null
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:33:57"
+  },
+  {
+    "flight_number": "VLG1252",
+    "plane": "AIRBUS A320",
+    "departure": {
+      "airport_name": "ALMERIA",
+      "airport_code": "LEI",
+      "terminal": "1",
+      "counter": "20 - 21",
+      "gate": "3",
+      "datetime_scheduled": "2018-04-13T12:25:00",
+      "datetime_actual": "2018-04-13T12:25:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Salida prevista a las 12:25"
+    },
+    "arrival": {
+      "airport_name": "BARCELONA-EL PRAT",
+      "airport_code": "BCN",
+      "terminal": "T1",
+      "room": "T1_G",
+      "belt": "08",
+      "datetime_scheduled": "2018-04-13T13:50:00",
+      "datetime_actual": "2018-04-13T13:50:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Llegada prevista a las 13:50"
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 8.0,
+        "temp_max": 17.0,
+        "description": "Chubascos dispersos"
+      },
+      "arrival": {
+        "temp_min": 12.0,
+        "temp_max": 17.0,
+        "description": "Lluvia moderada"
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:34:02"
+  },
+  {
+    "flight_number": "IBE8577",
+    "plane": "BOMBARDIER CRJ-1000",
+    "departure": {
+      "airport_name": "ALMERIA",
+      "airport_code": "LEI",
+      "terminal": "1",
+      "counter": "19 - 21",
+      "gate": "3",
+      "datetime_scheduled": "2018-04-13T14:05:00",
+      "datetime_actual": "2018-04-13T14:05:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Salida prevista a las 14:05"
+    },
+    "arrival": {
+      "airport_name": "MADRID-BARAJAS ADOLFO SUÁREZ",
+      "airport_code": "MAD",
+      "terminal": "4",
+      "room": "10",
+      "belt": "19",
+      "datetime_scheduled": "2018-04-13T15:15:00",
+      "datetime_actual": "2018-04-13T15:15:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Llegada prevista a las 15:15"
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 8.0,
+        "temp_max": 17.0,
+        "description": "Chubascos dispersos"
+      },
+      "arrival": {
+        "temp_min": 6.0,
+        "temp_max": 14.0,
+        "description": "Chubascos dispersos"
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:34:04"
+  },
+  {
+    "flight_number": "IBE8589",
+    "plane": "CANADAIR CRJ-200",
+    "departure": {
+      "airport_name": "ALMERIA",
+      "airport_code": "LEI",
+      "terminal": "1",
+      "counter": "19 - 21",
+      "gate": "3",
+      "datetime_scheduled": "2018-04-13T16:35:00",
+      "datetime_actual": "2018-04-13T16:35:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Salida prevista a las 16:35"
+    },
+    "arrival": {
+      "airport_name": "MADRID-BARAJAS ADOLFO SUÁREZ",
+      "airport_code": "MAD",
+      "terminal": "4",
+      "room": "10",
+      "belt": "19",
+      "datetime_scheduled": "2018-04-13T17:45:00",
+      "datetime_actual": "2018-04-13T17:45:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Llegada prevista a las 17:45"
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 8.0,
+        "temp_max": 17.0,
+        "description": "Chubascos dispersos"
+      },
+      "arrival": {
+        "temp_min": 6.0,
+        "temp_max": 14.0,
+        "description": "Chubascos dispersos"
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:34:06"
+  },
+  {
+    "flight_number": "IBE8601",
+    "plane": "BOMBARDIER CRJ-1000",
+    "departure": {
+      "airport_name": "ALMERIA",
+      "airport_code": "LEI",
+      "terminal": "1",
+      "counter": "19 - 21",
+      "gate": "3",
+      "datetime_scheduled": "2018-04-13T17:40:00",
+      "datetime_actual": "2018-04-13T17:40:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Salida prevista a las 17:40"
+    },
+    "arrival": {
+      "airport_name": "MADRID-BARAJAS ADOLFO SUÁREZ",
+      "airport_code": "MAD",
+      "terminal": "4",
+      "room": "10",
+      "belt": "19",
+      "datetime_scheduled": "2018-04-13T18:50:00",
+      "datetime_actual": "2018-04-13T18:50:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Llegada prevista a las 18:50"
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 8.0,
+        "temp_max": 17.0,
+        "description": "Chubascos dispersos"
+      },
+      "arrival": {
+        "temp_min": 6.0,
+        "temp_max": 14.0,
+        "description": "Chubascos dispersos"
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:34:08"
+  },
+  {
+    "flight_number": "GMI2381",
+    "plane": "BOEING 737-700 WINGLETS",
+    "departure": {
+      "airport_name": "ALMERIA",
+      "airport_code": "LEI",
+      "terminal": "1",
+      "counter": "3 - 4",
+      "gate": "4",
+      "datetime_scheduled": "2018-04-13T19:35:00",
+      "datetime_actual": "2018-04-13T19:35:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Salida prevista a las 19:35"
+    },
+    "arrival": {
+      "airport_name": "DUSSELDORF",
+      "airport_code": "DUS",
+      "terminal": null,
+      "room": null,
+      "belt": null,
+      "datetime_scheduled": null,
+      "datetime_actual": null,
+      "status_code": "DESCONOCIDO",
+      "status_text": null
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 8.0,
+        "temp_max": 17.0,
+        "description": "Chubascos dispersos"
+      },
+      "arrival": {
+        "temp_min": null,
+        "temp_max": null,
+        "description": null
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:34:09"
+  },
+  {
+    "flight_number": "RYR1259",
+    "plane": "BOEING 737-800 WINGLETS",
+    "departure": {
+      "airport_name": "ALMERIA",
+      "airport_code": "LEI",
+      "terminal": "1",
+      "counter": "9 - 10",
+      "gate": "3",
+      "datetime_scheduled": "2018-04-13T19:40:00",
+      "datetime_actual": "2018-04-13T19:40:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Salida prevista a las 19:40"
+    },
+    "arrival": {
+      "airport_name": "BRUSELAS /CHARLEROI",
+      "airport_code": "CRL",
+      "terminal": null,
+      "room": null,
+      "belt": null,
+      "datetime_scheduled": null,
+      "datetime_actual": null,
+      "status_code": "DESCONOCIDO",
+      "status_text": null
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 8.0,
+        "temp_max": 17.0,
+        "description": "Chubascos dispersos"
+      },
+      "arrival": {
+        "temp_min": null,
+        "temp_max": null,
+        "description": null
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:34:10"
+  },
+  {
+    "flight_number": "IBE8932",
+    "plane": "CANADAIR CRJ-200",
+    "departure": {
+      "airport_name": "ALMERIA",
+      "airport_code": "LEI",
+      "terminal": "1",
+      "counter": "19 - 21",
+      "gate": "1",
+      "datetime_scheduled": "2018-04-13T19:45:00",
+      "datetime_actual": "2018-04-13T19:45:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Salida prevista a las 19:45"
+    },
+    "arrival": {
+      "airport_name": "SEVILLA",
+      "airport_code": "SVQ",
+      "terminal": "1",
+      "room": "B",
+      "belt": "5",
+      "datetime_scheduled": "2018-04-13T20:45:00",
+      "datetime_actual": "2018-04-13T20:45:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Llegada prevista a las 20:45"
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 8.0,
+        "temp_max": 17.0,
+        "description": "Chubascos dispersos"
+      },
+      "arrival": {
+        "temp_min": 8.0,
+        "temp_max": 17.0,
+        "description": "Lluvia"
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:34:11"
+  },
+  {
+    "flight_number": "IBE8603",
+    "plane": "BOMBARDIER CRJ-1000",
+    "departure": {
+      "airport_name": "ALMERIA",
+      "airport_code": "LEI",
+      "terminal": "1",
+      "counter": "19 - 21",
+      "gate": "3",
+      "datetime_scheduled": "2018-04-14T07:15:00",
+      "datetime_actual": "2018-04-14T07:15:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Salida prevista a las 07:15"
+    },
+    "arrival": {
+      "airport_name": "MADRID-BARAJAS ADOLFO SUÁREZ",
+      "airport_code": "MAD",
+      "terminal": null,
+      "room": null,
+      "belt": null,
+      "datetime_scheduled": "2018-04-14T08:25:00",
+      "datetime_actual": "2018-04-14T08:25:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Llegada prevista a las 08:25"
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 8.0,
+        "temp_max": 17.0,
+        "description": "Chubascos dispersos"
+      },
+      "arrival": {
+        "temp_min": 6.0,
+        "temp_max": 14.0,
+        "description": "Chubascos dispersos"
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:34:12"
+  },
+  {
+    "flight_number": "LGL694",
+    "plane": "BOEING 737-800 WINGLETS",
+    "departure": {
+      "airport_name": "ALMERIA",
+      "airport_code": "LEI",
+      "terminal": "1",
+      "counter": "22 - 24",
+      "gate": "3",
+      "datetime_scheduled": "2018-04-14T09:30:00",
+      "datetime_actual": "2018-04-14T09:30:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Salida prevista a las 09:30"
+    },
+    "arrival": {
+      "airport_name": "LUXEMBURGO",
+      "airport_code": "LUX",
+      "terminal": null,
+      "room": null,
+      "belt": null,
+      "datetime_scheduled": null,
+      "datetime_actual": null,
+      "status_code": "DESCONOCIDO",
+      "status_text": null
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 8.0,
+        "temp_max": 17.0,
+        "description": "Chubascos dispersos"
+      },
+      "arrival": {
+        "temp_min": null,
+        "temp_max": null,
+        "description": null
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:34:14"
+  },
+  {
+    "flight_number": "JAF6944",
+    "plane": "EMBRAER 190",
+    "departure": {
+      "airport_name": "ALMERIA",
+      "airport_code": "LEI",
+      "terminal": "1",
+      "counter": "17 - 18",
+      "gate": "2",
+      "datetime_scheduled": "2018-04-14T10:05:00",
+      "datetime_actual": "2018-04-14T10:05:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Salida prevista a las 10:05"
+    },
+    "arrival": {
+      "airport_name": "BRUSELAS",
+      "airport_code": "BRU",
+      "terminal": null,
+      "room": null,
+      "belt": null,
+      "datetime_scheduled": null,
+      "datetime_actual": null,
+      "status_code": "DESCONOCIDO",
+      "status_text": null
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 8.0,
+        "temp_max": 17.0,
+        "description": "Chubascos dispersos"
+      },
+      "arrival": {
+        "temp_min": null,
+        "temp_max": null,
+        "description": null
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:34:15"
+  },
+  {
+    "flight_number": "IBE0514",
+    "plane": "AIRBUS A319",
+    "departure": {
+      "airport_name": "MADRID-BARAJAS ADOLFO SUÁREZ",
+      "airport_code": "MAD",
+      "terminal": "4",
+      "counter": "810 - 859",
+      "gate": "H28",
+      "datetime_scheduled": "2018-04-13T07:30:00",
+      "datetime_actual": "2018-04-13T07:30:00",
+      "status_code": "DESPEGADO",
+      "status_text": "El vuelo ha despegado a las 07:30"
+    },
+    "arrival": {
+      "airport_name": "A CORUÑA",
+      "airport_code": "LCG",
+      "terminal": null,
+      "room": "S1",
+      "belt": "2",
+      "datetime_scheduled": "2018-04-13T08:45:00",
+      "datetime_actual": "2018-04-13T08:46:00",
+      "status_code": "ATERRIZADO",
+      "status_text": "El vuelo ha aterrizado a las 08:46"
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 6.0,
+        "temp_max": 14.0,
+        "description": "Chubascos dispersos"
+      },
+      "arrival": {
+        "temp_min": 10.0,
+        "temp_max": 15.0,
+        "description": "Chubascos dispersos"
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:34:06"
+  },
+  {
+    "flight_number": "VLG1292",
+    "plane": "32A",
+    "departure": {
+      "airport_name": "BARCELONA-EL PRAT",
+      "airport_code": "BCN",
+      "terminal": "T1",
+      "counter": "501 - 514",
+      "gate": "A14",
+      "datetime_scheduled": "2018-04-13T09:25:00",
+      "datetime_actual": "2018-04-13T09:23:00",
+      "status_code": "DESPEGADO",
+      "status_text": "El vuelo ha despegado a las 09:23"
+    },
+    "arrival": {
+      "airport_name": "A CORUÑA",
+      "airport_code": "LCG",
+      "terminal": null,
+      "room": "S1",
+      "belt": "2",
+      "datetime_scheduled": "2018-04-13T11:10:00",
+      "datetime_actual": "2018-04-13T11:00:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Llegada prevista a las 11:00"
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 12.0,
+        "temp_max": 17.0,
+        "description": "Lluvia moderada"
+      },
+      "arrival": {
+        "temp_min": 10.0,
+        "temp_max": 15.0,
+        "description": "Chubascos dispersos"
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:34:08"
+  },
+  {
+    "flight_number": "AEA7233",
+    "plane": "EMBRAER ERJ-195",
+    "departure": {
+      "airport_name": "MADRID-BARAJAS ADOLFO SUÁREZ",
+      "airport_code": "MAD",
+      "terminal": "2",
+      "counter": "505 - 520",
+      "gate": "E72",
+      "datetime_scheduled": "2018-04-13T10:10:00",
+      "datetime_actual": "2018-04-13T10:04:00",
+      "status_code": "DESPEGADO",
+      "status_text": "El vuelo ha despegado a las 10:04"
+    },
+    "arrival": {
+      "airport_name": "A CORUÑA",
+      "airport_code": "LCG",
+      "terminal": null,
+      "room": "S1",
+      "belt": "1",
+      "datetime_scheduled": "2018-04-13T11:25:00",
+      "datetime_actual": "2018-04-13T11:20:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Llegada prevista a las 11:20"
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 6.0,
+        "temp_max": 14.0,
+        "description": "Chubascos dispersos"
+      },
+      "arrival": {
+        "temp_min": 10.0,
+        "temp_max": 15.0,
+        "description": "Chubascos dispersos"
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:34:12"
+  },
+  {
+    "flight_number": "IBE0512",
+    "plane": "AIRBUS A320",
+    "departure": {
+      "airport_name": "MADRID-BARAJAS ADOLFO SUÁREZ",
+      "airport_code": "MAD",
+      "terminal": "4",
+      "counter": "810 - 859",
+      "gate": null,
+      "datetime_scheduled": "2018-04-13T11:50:00",
+      "datetime_actual": null,
+      "status_code": "OTRO",
+      "status_text": "Departure expected at 11:40"
+    },
+    "arrival": {
+      "airport_name": "A CORUÑA",
+      "airport_code": "LCG",
+      "terminal": null,
+      "room": "S1",
+      "belt": "2",
+      "datetime_scheduled": "2018-04-13T12:55:00",
+      "datetime_actual": null,
+      "status_code": "OTRO",
+      "status_text": "Arrival expected at 12:55"
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 6.0,
+        "temp_max": 14.0,
+        "description": "Chubascos dispersos"
+      },
+      "arrival": {
+        "temp_min": 10.0,
+        "temp_max": 15.0,
+        "description": "Chubascos dispersos"
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:34:13"
+  },
+  {
+    "flight_number": "VLG1299",
+    "plane": "AIRBUS A320",
+    "departure": {
+      "airport_name": "SEVILLA",
+      "airport_code": "SVQ",
+      "terminal": "1",
+      "counter": "M26 - M33",
+      "gate": "6",
+      "datetime_scheduled": "2018-04-13T13:05:00",
+      "datetime_actual": "2018-04-13T13:05:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Salida prevista a las 13:05"
+    },
+    "arrival": {
+      "airport_name": "A CORUÑA",
+      "airport_code": "LCG",
+      "terminal": null,
+      "room": "S1",
+      "belt": "2",
+      "datetime_scheduled": "2018-04-13T14:30:00",
+      "datetime_actual": "2018-04-13T14:30:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Llegada prevista a las 14:30"
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 8.0,
+        "temp_max": 17.0,
+        "description": "Lluvia"
+      },
+      "arrival": {
+        "temp_min": 10.0,
+        "temp_max": 15.0,
+        "description": "Chubascos dispersos"
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:34:14"
+  },
+  {
+    "flight_number": "AEA7235",
+    "plane": "EMBRAER ERJ-195",
+    "departure": {
+      "airport_name": "MADRID-BARAJAS ADOLFO SUÁREZ",
+      "airport_code": "MAD",
+      "terminal": "2",
+      "counter": "505 - 520",
+      "gate": null,
+      "datetime_scheduled": "2018-04-13T14:15:00",
+      "datetime_actual": "2018-04-13T14:15:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Salida prevista a las 14:15"
+    },
+    "arrival": {
+      "airport_name": "A CORUÑA",
+      "airport_code": "LCG",
+      "terminal": null,
+      "room": "S1",
+      "belt": "1",
+      "datetime_scheduled": "2018-04-13T15:30:00",
+      "datetime_actual": "2018-04-13T15:30:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Llegada prevista a las 15:30"
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 6.0,
+        "temp_max": 14.0,
+        "description": "Chubascos dispersos"
+      },
+      "arrival": {
+        "temp_min": 10.0,
+        "temp_max": 15.0,
+        "description": "Chubascos dispersos"
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:34:15"
+  },
+  {
+    "flight_number": "IBE0524",
+    "plane": "AIRBUS A320",
+    "departure": {
+      "airport_name": "MADRID-BARAJAS ADOLFO SUÁREZ",
+      "airport_code": "MAD",
+      "terminal": "4",
+      "counter": "810 - 859",
+      "gate": null,
+      "datetime_scheduled": "2018-04-13T15:35:00",
+      "datetime_actual": "2018-04-13T15:35:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Salida prevista a las 15:35"
+    },
+    "arrival": {
+      "airport_name": "A CORUÑA",
+      "airport_code": "LCG",
+      "terminal": null,
+      "room": "S1",
+      "belt": "2",
+      "datetime_scheduled": "2018-04-13T17:00:00",
+      "datetime_actual": "2018-04-13T17:00:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Llegada prevista a las 17:00"
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 6.0,
+        "temp_max": 14.0,
+        "description": "Chubascos dispersos"
+      },
+      "arrival": {
+        "temp_min": 10.0,
+        "temp_max": 15.0,
+        "description": "Chubascos dispersos"
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:34:15"
+  },
+  {
+    "flight_number": "VLG1294",
+    "plane": "AIRBUS A320",
+    "departure": {
+      "airport_name": "BARCELONA-EL PRAT",
+      "airport_code": "BCN",
+      "terminal": "T1",
+      "counter": "501 - 514",
+      "gate": null,
+      "datetime_scheduled": "2018-04-13T15:25:00",
+      "datetime_actual": "2018-04-13T15:25:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Salida prevista a las 15:25"
+    },
+    "arrival": {
+      "airport_name": "A CORUÑA",
+      "airport_code": "LCG",
+      "terminal": null,
+      "room": "S1",
+      "belt": "2",
+      "datetime_scheduled": "2018-04-13T17:15:00",
+      "datetime_actual": "2018-04-13T17:15:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Llegada prevista a las 17:15"
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 12.0,
+        "temp_max": 17.0,
+        "description": "Lluvia moderada"
+      },
+      "arrival": {
+        "temp_min": 10.0,
+        "temp_max": 15.0,
+        "description": "Chubascos dispersos"
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:34:18"
+  },
+  {
+    "flight_number": "ANE8390",
+    "plane": "BOMBARDIER CRJ-1000",
+    "departure": {
+      "airport_name": "MADRID-BARAJAS ADOLFO SUÁREZ",
+      "airport_code": "MAD",
+      "terminal": null,
+      "counter": null,
+      "gate": null,
+      "datetime_scheduled": null,
+      "datetime_actual": null,
+      "status_code": "DESCONOCIDO",
+      "status_text": null
+    },
+    "arrival": {
+      "airport_name": "ALICANTE-ELCHE",
+      "airport_code": "ALC",
+      "terminal": "N",
+      "room": "NT1",
+      "belt": "4A",
+      "datetime_scheduled": "2018-04-13T09:00:00",
+      "datetime_actual": "2018-04-13T09:04:00",
+      "status_code": "ATERRIZADO",
+      "status_text": "El vuelo ha aterrizado a las 09:04"
+    },
+    "weather": {
+      "departure": {
+        "temp_min": null,
+        "temp_max": null,
+        "description": null
+      },
+      "arrival": {
+        "temp_min": 11.0,
+        "temp_max": 18.0,
+        "description": "Nubosidad variable"
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:34:14"
+  },
+  {
+    "flight_number": "VLG3935",
+    "plane": "AIRBUS A320",
+    "departure": {
+      "airport_name": "PALMA DE MALLORCA",
+      "airport_code": "PMI",
+      "terminal": "N",
+      "counter": "058 - 060",
+      "gate": "D88",
+      "datetime_scheduled": "2018-04-13T08:40:00",
+      "datetime_actual": "2018-04-13T08:36:00",
+      "status_code": "DESPEGADO",
+      "status_text": "El vuelo ha despegado a las 08:36"
+    },
+    "arrival": {
+      "airport_name": "ALICANTE-ELCHE",
+      "airport_code": "ALC",
+      "terminal": "N",
+      "room": "NT1",
+      "belt": "10A",
+      "datetime_scheduled": "2018-04-13T09:45:00",
+      "datetime_actual": "2018-04-13T09:35:00",
+      "status_code": "ATERRIZADO",
+      "status_text": "El vuelo ha aterrizado a las 09:35"
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 12.0,
+        "temp_max": 17.0,
+        "description": "Lluvia"
+      },
+      "arrival": {
+        "temp_min": 11.0,
+        "temp_max": 18.0,
+        "description": "Nubosidad variable"
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:34:28"
+  },
+  {
+    "flight_number": "VLG1312",
+    "plane": "AIRBUS A320",
+    "departure": {
+      "airport_name": "BARCELONA-EL PRAT",
+      "airport_code": "BCN",
+      "terminal": "T1",
+      "counter": "501 - 514",
+      "gate": "B47",
+      "datetime_scheduled": "2018-04-13T08:55:00",
+      "datetime_actual": "2018-04-13T08:47:00",
+      "status_code": "DESPEGADO",
+      "status_text": "El vuelo ha despegado a las 08:47"
+    },
+    "arrival": {
+      "airport_name": "ALICANTE-ELCHE",
+      "airport_code": "ALC",
+      "terminal": "N",
+      "room": "NT1",
+      "belt": "9B",
+      "datetime_scheduled": "2018-04-13T10:05:00",
+      "datetime_actual": "2018-04-13T09:50:00",
+      "status_code": "ATERRIZADO",
+      "status_text": "El vuelo ha aterrizado a las 09:50"
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 12.0,
+        "temp_max": 17.0,
+        "description": "Lluvia moderada"
+      },
+      "arrival": {
+        "temp_min": 11.0,
+        "temp_max": 18.0,
+        "description": "Nubosidad variable"
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:34:34"
+  },
+  {
+    "flight_number": "IBE8931",
+    "plane": "CANADAIR CRJ-200",
+    "departure": {
+      "airport_name": "SEVILLA",
+      "airport_code": "SVQ",
+      "terminal": "1",
+      "counter": "M18 - M20",
+      "gate": "K2",
+      "datetime_scheduled": "2018-04-13T08:40:00",
+      "datetime_actual": null,
+      "status_code": "OTRO",
+      "status_text": "The flight took off at 08:35"
+    },
+    "arrival": {
+      "airport_name": "ALMERIA",
+      "airport_code": "LEI",
+      "terminal": "1",
+      "room": "1",
+      "belt": "1",
+      "datetime_scheduled": "2018-04-13T09:35:00",
+      "datetime_actual": null,
+      "status_code": "OTRO",
+      "status_text": "The flight landed at 09:19"
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 8.0,
+        "temp_max": 17.0,
+        "description": "Lluvia"
+      },
+      "arrival": {
+        "temp_min": 8.0,
+        "temp_max": 17.0,
+        "description": "Chubascos dispersos"
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:34:56"
+  },
+  {
+    "flight_number": "IBE8594",
+    "plane": "BOMBARDIER CRJ-1000",
+    "departure": {
+      "airport_name": "MADRID-BARAJAS ADOLFO SUÁREZ",
+      "airport_code": "MAD",
+      "terminal": "4",
+      "counter": "810 - 859",
+      "gate": "K95",
+      "datetime_scheduled": "2018-04-13T09:00:00",
+      "datetime_actual": "2018-04-13T09:00:00",
+      "status_code": "DESPEGADO",
+      "status_text": "El vuelo ha despegado a las 09:00"
+    },
+    "arrival": {
+      "airport_name": "ALMERIA",
+      "airport_code": "LEI",
+      "terminal": "1",
+      "room": "1",
+      "belt": "1",
+      "datetime_scheduled": "2018-04-13T10:10:00",
+      "datetime_actual": "2018-04-13T10:09:00",
+      "status_code": "ATERRIZADO",
+      "status_text": "El vuelo ha aterrizado a las 10:09"
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 6.0,
+        "temp_max": 14.0,
+        "description": "Chubascos dispersos"
+      },
+      "arrival": {
+        "temp_min": 8.0,
+        "temp_max": 17.0,
+        "description": "Chubascos dispersos"
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:34:57"
+  },
+  {
+    "flight_number": "VLG1251",
+    "plane": "AIRBUS A320",
+    "departure": {
+      "airport_name": "BARCELONA-EL PRAT",
+      "airport_code": "BCN",
+      "terminal": "T1",
+      "counter": "501 - 514",
+      "gate": "B44",
+      "datetime_scheduled": "2018-04-13T10:20:00",
+      "datetime_actual": "2018-04-13T10:26:00",
+      "status_code": "DESPEGADO",
+      "status_text": "El vuelo ha despegado a las 10:26"
+    },
+    "arrival": {
+      "airport_name": "ALMERIA",
+      "airport_code": "LEI",
+      "terminal": "1",
+      "room": "1",
+      "belt": "3",
+      "datetime_scheduled": "2018-04-13T11:50:00",
+      "datetime_actual": "2018-04-13T11:50:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Llegada prevista a las 11:50"
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 12.0,
+        "temp_max": 17.0,
+        "description": "Lluvia moderada"
+      },
+      "arrival": {
+        "temp_min": 8.0,
+        "temp_max": 17.0,
+        "description": "Chubascos dispersos"
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:34:59"
+  },
+  {
+    "flight_number": "IBE8598",
+    "plane": "BOMBARDIER CRJ-1000",
+    "departure": {
+      "airport_name": "MADRID-BARAJAS ADOLFO SUÁREZ",
+      "airport_code": "MAD",
+      "terminal": "4",
+      "counter": "810 - 859",
+      "gate": null,
+      "datetime_scheduled": "2018-04-13T12:25:00",
+      "datetime_actual": "2018-04-13T12:25:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Salida prevista a las 12:25"
+    },
+    "arrival": {
+      "airport_name": "ALMERIA",
+      "airport_code": "LEI",
+      "terminal": "1",
+      "room": "1",
+      "belt": "1",
+      "datetime_scheduled": "2018-04-13T13:35:00",
+      "datetime_actual": "2018-04-13T13:35:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Llegada prevista a las 13:35"
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 6.0,
+        "temp_max": 14.0,
+        "description": "Chubascos dispersos"
+      },
+      "arrival": {
+        "temp_min": 8.0,
+        "temp_max": 17.0,
+        "description": "Chubascos dispersos"
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:35:02"
+  },
+  {
+    "flight_number": "IBE8212",
+    "plane": "CANADAIR CRJ-200",
+    "departure": {
+      "airport_name": "PALMA DE MALLORCA",
+      "airport_code": "PMI",
+      "terminal": null,
+      "counter": null,
+      "gate": null,
+      "datetime_scheduled": null,
+      "datetime_actual": null,
+      "status_code": "DESCONOCIDO",
+      "status_text": null
+    },
+    "arrival": {
+      "airport_name": "ALMERIA",
+      "airport_code": "LEI",
+      "terminal": "1",
+      "room": "1",
+      "belt": "1",
+      "datetime_scheduled": "2018-04-13T16:05:00",
+      "datetime_actual": "2018-04-13T16:05:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Llegada prevista a las 16:05"
+    },
+    "weather": {
+      "departure": {
+        "temp_min": null,
+        "temp_max": null,
+        "description": null
+      },
+      "arrival": {
+        "temp_min": 8.0,
+        "temp_max": 17.0,
+        "description": "Chubascos dispersos"
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:35:03"
+  },
+  {
+    "flight_number": "IBE8592",
+    "plane": "BOMBARDIER CRJ-1000",
+    "departure": {
+      "airport_name": "MADRID-BARAJAS ADOLFO SUÁREZ",
+      "airport_code": "MAD",
+      "terminal": "4",
+      "counter": "810 - 819",
+      "gate": null,
+      "datetime_scheduled": "2018-04-13T16:00:00",
+      "datetime_actual": "2018-04-13T16:00:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Salida prevista a las 16:00"
+    },
+    "arrival": {
+      "airport_name": "ALMERIA",
+      "airport_code": "LEI",
+      "terminal": "1",
+      "room": "1",
+      "belt": "1",
+      "datetime_scheduled": "2018-04-13T17:10:00",
+      "datetime_actual": "2018-04-13T17:10:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Llegada prevista a las 17:10"
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 6.0,
+        "temp_max": 14.0,
+        "description": "Chubascos dispersos"
+      },
+      "arrival": {
+        "temp_min": 8.0,
+        "temp_max": 17.0,
+        "description": "Chubascos dispersos"
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:35:03"
+  },
+  {
+    "flight_number": "IBE8588",
+    "plane": "CANADAIR CRJ-200",
+    "departure": {
+      "airport_name": "MADRID-BARAJAS ADOLFO SUÁREZ",
+      "airport_code": "MAD",
+      "terminal": "4",
+      "counter": "810 - 819",
+      "gate": null,
+      "datetime_scheduled": "2018-04-13T18:05:00",
+      "datetime_actual": "2018-04-13T18:05:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Salida prevista a las 18:05"
+    },
+    "arrival": {
+      "airport_name": "ALMERIA",
+      "airport_code": "LEI",
+      "terminal": "1",
+      "room": "1",
+      "belt": "1",
+      "datetime_scheduled": "2018-04-13T19:15:00",
+      "datetime_actual": "2018-04-13T19:15:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Llegada prevista a las 19:15"
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 6.0,
+        "temp_max": 14.0,
+        "description": "Chubascos dispersos"
+      },
+      "arrival": {
+        "temp_min": 8.0,
+        "temp_max": 17.0,
+        "description": "Chubascos dispersos"
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:35:07"
+  },
+  {
+    "flight_number": "IBE8600",
+    "plane": "BOMBARDIER CRJ-1000",
+    "departure": {
+      "airport_name": "MADRID-BARAJAS ADOLFO SUÁREZ",
+      "airport_code": "MAD",
+      "terminal": "4",
+      "counter": "810 - 819",
+      "gate": null,
+      "datetime_scheduled": "2018-04-13T21:15:00",
+      "datetime_actual": "2018-04-13T21:15:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Salida prevista a las 21:15"
+    },
+    "arrival": {
+      "airport_name": "ALMERIA",
+      "airport_code": "LEI",
+      "terminal": "1",
+      "room": "1",
+      "belt": "1",
+      "datetime_scheduled": "2018-04-13T22:25:00",
+      "datetime_actual": "2018-04-13T22:25:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Llegada prevista a las 22:25"
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 6.0,
+        "temp_max": 14.0,
+        "description": "Chubascos dispersos"
+      },
+      "arrival": {
+        "temp_min": 8.0,
+        "temp_max": 17.0,
+        "description": "Chubascos dispersos"
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:35:09"
+  },
+  {
+    "flight_number": "IBE8594",
+    "plane": "CANADAIR CRJ-900",
+    "departure": {
+      "airport_name": "MADRID-BARAJAS ADOLFO SUÁREZ",
+      "airport_code": "MAD",
+      "terminal": null,
+      "counter": null,
+      "gate": null,
+      "datetime_scheduled": "2018-04-14T08:55:00",
+      "datetime_actual": "2018-04-14T08:55:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Salida prevista a las 08:55"
+    },
+    "arrival": {
+      "airport_name": "ALMERIA",
+      "airport_code": "LEI",
+      "terminal": "1",
+      "room": "1",
+      "belt": "1",
+      "datetime_scheduled": "2018-04-14T10:05:00",
+      "datetime_actual": "2018-04-14T10:05:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Llegada prevista a las 10:05"
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 6.0,
+        "temp_max": 14.0,
+        "description": "Chubascos dispersos"
+      },
+      "arrival": {
+        "temp_min": 8.0,
+        "temp_max": 17.0,
+        "description": "Chubascos dispersos"
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:35:18"
+  },
+  {
+    "flight_number": "IBE8759",
+    "plane": "BOMBARDIER CRJ-1000",
+    "departure": {
+      "airport_name": "LEON",
+      "airport_code": "LEN",
+      "terminal": "T",
+      "counter": "05 -",
+      "gate": "1",
+      "datetime_scheduled": "2018-04-13T20:05:00",
+      "datetime_actual": "2018-04-13T20:05:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Salida prevista a las 20:05"
+    },
+    "arrival": {
+      "airport_name": "BARCELONA-EL PRAT",
+      "airport_code": "BCN",
+      "terminal": null,
+      "room": null,
+      "belt": null,
+      "datetime_scheduled": null,
+      "datetime_actual": null,
+      "status_code": "DESCONOCIDO",
+      "status_text": null
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 3.0,
+        "temp_max": 13.0,
+        "description": "Lluvia"
+      },
+      "arrival": {
+        "temp_min": null,
+        "temp_max": null,
+        "description": null
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:55:11"
+  },
+  {
+    "flight_number": "RYR4421",
+    "plane": "BOEING 737-800 WINGLETS",
+    "departure": {
+      "airport_name": "VITORIA",
+      "airport_code": "VIT",
+      "terminal": null,
+      "counter": null,
+      "gate": null,
+      "datetime_scheduled": "2018-04-13T14:30:00",
+      "datetime_actual": "2018-04-13T14:30:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Salida prevista a las 14:30"
+    },
+    "arrival": {
+      "airport_name": "COLONIA/BONN",
+      "airport_code": "CGN",
+      "terminal": null,
+      "room": null,
+      "belt": null,
+      "datetime_scheduled": null,
+      "datetime_actual": null,
+      "status_code": "DESCONOCIDO",
+      "status_text": null
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 5.0,
+        "temp_max": 13.0,
+        "description": "Lluvia débil"
+      },
+      "arrival": {
+        "temp_min": null,
+        "temp_max": null,
+        "description": null
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:55:13"
+  },
+  {
+    "flight_number": "IBE8758",
+    "plane": "BOMBARDIER CRJ-1000",
+    "departure": {
+      "airport_name": "BARCELONA-EL PRAT",
+      "airport_code": "BCN",
+      "terminal": null,
+      "counter": null,
+      "gate": null,
+      "datetime_scheduled": null,
+      "datetime_actual": null,
+      "status_code": "DESCONOCIDO",
+      "status_text": null
+    },
+    "arrival": {
+      "airport_name": "LEON",
+      "airport_code": "LEN",
+      "terminal": "T",
+      "room": "S1",
+      "belt": "2",
+      "datetime_scheduled": "2018-04-13T19:35:00",
+      "datetime_actual": "2018-04-13T19:35:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Llegada prevista a las 19:35"
+    },
+    "weather": {
+      "departure": {
+        "temp_min": null,
+        "temp_max": null,
+        "description": null
+      },
+      "arrival": {
+        "temp_min": 3.0,
+        "temp_max": 13.0,
+        "description": "Lluvia"
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:55:13"
+  },
+  {
+    "flight_number": "IBE8221",
+    "plane": "CANADAIR CRJ-200",
+    "departure": {
+      "airport_name": "LOGROÑO - AGONCILLO",
+      "airport_code": "RJL",
+      "terminal": "1",
+      "counter": "4 - 5",
+      "gate": "1",
+      "datetime_scheduled": "2018-04-14T09:05:00",
+      "datetime_actual": "2018-04-14T09:05:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Salida prevista a las 09:05"
+    },
+    "arrival": {
+      "airport_name": "MADRID-BARAJAS ADOLFO SUÁREZ",
+      "airport_code": "MAD",
+      "terminal": null,
+      "room": null,
+      "belt": null,
+      "datetime_scheduled": "2018-04-14T09:55:00",
+      "datetime_actual": "2018-04-14T09:55:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Llegada prevista a las 09:55"
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 5.0,
+        "temp_max": 14.0,
+        "description": "Lluvia"
+      },
+      "arrival": {
+        "temp_min": 6.0,
+        "temp_max": 14.0,
+        "description": "Chubascos dispersos"
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:55:14"
+  },
+  {
+    "flight_number": "IBE8224",
+    "plane": "CANADAIR CRJ-200",
+    "departure": {
+      "airport_name": "MADRID-BARAJAS ADOLFO SUÁREZ",
+      "airport_code": "MAD",
+      "terminal": "4",
+      "counter": "810 - 819",
+      "gate": null,
+      "datetime_scheduled": "2018-04-13T21:00:00",
+      "datetime_actual": "2018-04-13T21:00:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Salida prevista a las 21:00"
+    },
+    "arrival": {
+      "airport_name": "LOGROÑO - AGONCILLO",
+      "airport_code": "RJL",
+      "terminal": "1",
+      "room": "1",
+      "belt": "1",
+      "datetime_scheduled": "2018-04-13T21:50:00",
+      "datetime_actual": "2018-04-13T21:50:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Llegada prevista a las 21:50"
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 6.0,
+        "temp_max": 14.0,
+        "description": "Chubascos dispersos"
+      },
+      "arrival": {
+        "temp_min": 5.0,
+        "temp_max": 14.0,
+        "description": "Lluvia"
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:55:18"
+  },
+  {
+    "flight_number": "RYR1074",
+    "plane": "BOEING 737-800 WINGLETS",
+    "departure": {
+      "airport_name": "REUS",
+      "airport_code": "REU",
+      "terminal": "1",
+      "counter": "21 - 21",
+      "gate": "10",
+      "datetime_scheduled": "2018-04-13T12:15:00",
+      "datetime_actual": "2018-04-13T12:15:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Salida prevista a las 12:15"
+    },
+    "arrival": {
+      "airport_name": "EAST MIDLANDS",
+      "airport_code": "EMA",
+      "terminal": null,
+      "room": null,
+      "belt": null,
+      "datetime_scheduled": null,
+      "datetime_actual": null,
+      "status_code": "DESCONOCIDO",
+      "status_text": null
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 10.0,
+        "temp_max": 20.0,
+        "description": "Lluvia"
+      },
+      "arrival": {
+        "temp_min": null,
+        "temp_max": null,
+        "description": null
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:55:11"
+  },
+  {
+    "flight_number": "RYR1115",
+    "plane": "BOEING 737-800 WINGLETS",
+    "departure": {
+      "airport_name": "REUS",
+      "airport_code": "REU",
+      "terminal": "1",
+      "counter": "20 - 21",
+      "gate": "10",
+      "datetime_scheduled": "2018-04-13T13:40:00",
+      "datetime_actual": "2018-04-13T13:40:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Salida prevista a las 13:40"
+    },
+    "arrival": {
+      "airport_name": "DUBLIN",
+      "airport_code": "DUB",
+      "terminal": null,
+      "room": null,
+      "belt": null,
+      "datetime_scheduled": null,
+      "datetime_actual": null,
+      "status_code": "DESCONOCIDO",
+      "status_text": null
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 10.0,
+        "temp_max": 20.0,
+        "description": "Lluvia"
+      },
+      "arrival": {
+        "temp_min": null,
+        "temp_max": null,
+        "description": null
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:55:14"
+  },
+  {
+    "flight_number": "RYR2212",
+    "plane": "BOEING 737-800 WINGLETS",
+    "departure": {
+      "airport_name": "REUS",
+      "airport_code": "REU",
+      "terminal": "1",
+      "counter": "21 - 21",
+      "gate": "12",
+      "datetime_scheduled": "2018-04-13T14:40:00",
+      "datetime_actual": "2018-04-13T14:40:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Salida prevista a las 14:40"
+    },
+    "arrival": {
+      "airport_name": "EINDHOVEN",
+      "airport_code": "EIN",
+      "terminal": null,
+      "room": null,
+      "belt": null,
+      "datetime_scheduled": null,
+      "datetime_actual": null,
+      "status_code": "DESCONOCIDO",
+      "status_text": null
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 10.0,
+        "temp_max": 20.0,
+        "description": "Lluvia"
+      },
+      "arrival": {
+        "temp_min": null,
+        "temp_max": null,
+        "description": null
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:55:20"
+  },
+  {
+    "flight_number": "RYR2212",
+    "plane": "BOEING 737-800 WINGLETS",
+    "departure": {
+      "airport_name": "REUS",
+      "airport_code": "REU",
+      "terminal": "1",
+      "counter": "20 - 21",
+      "gate": "12",
+      "datetime_scheduled": "2018-04-14T10:30:00",
+      "datetime_actual": "2018-04-14T10:30:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Salida prevista a las 10:30"
+    },
+    "arrival": {
+      "airport_name": "EINDHOVEN",
+      "airport_code": "EIN",
+      "terminal": null,
+      "room": null,
+      "belt": null,
+      "datetime_scheduled": null,
+      "datetime_actual": null,
+      "status_code": "DESCONOCIDO",
+      "status_text": null
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 10.0,
+        "temp_max": 20.0,
+        "description": "Lluvia"
+      },
+      "arrival": {
+        "temp_min": null,
+        "temp_max": null,
+        "description": null
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:55:21"
+  },
+  {
+    "flight_number": "IBE0519",
+    "plane": "AIRBUS A319",
+    "departure": {
+      "airport_name": "A CORUÑA",
+      "airport_code": "LCG",
+      "terminal": null,
+      "counter": null,
+      "gate": "3",
+      "datetime_scheduled": "2018-04-13T09:25:00",
+      "datetime_actual": "2018-04-13T09:36:00",
+      "status_code": "DESPEGADO",
+      "status_text": "El vuelo ha despegado a las 09:36"
+    },
+    "arrival": {
+      "airport_name": "MADRID-BARAJAS ADOLFO SUÁREZ",
+      "airport_code": "MAD",
+      "terminal": "4",
+      "room": "10",
+      "belt": "16",
+      "datetime_scheduled": "2018-04-13T10:40:00",
+      "datetime_actual": "2018-04-13T10:54:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Llegada prevista a las 10:54"
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 10.0,
+        "temp_max": 15.0,
+        "description": "Chubascos dispersos"
+      },
+      "arrival": {
+        "temp_min": 6.0,
+        "temp_max": 14.0,
+        "description": "Chubascos dispersos"
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:55:10"
+  },
+  {
+    "flight_number": "TAP1085",
+    "plane": "ATR-42/72",
+    "departure": {
+      "airport_name": "A CORUÑA",
+      "airport_code": "LCG",
+      "terminal": null,
+      "counter": null,
+      "gate": "1",
+      "datetime_scheduled": "2018-04-13T11:00:00",
+      "datetime_actual": "2018-04-13T11:00:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Salida prevista a las 11:00"
+    },
+    "arrival": {
+      "airport_name": "LISBOA",
+      "airport_code": "LIS",
+      "terminal": null,
+      "room": null,
+      "belt": null,
+      "datetime_scheduled": null,
+      "datetime_actual": null,
+      "status_code": "DESCONOCIDO",
+      "status_text": null
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 10.0,
+        "temp_max": 15.0,
+        "description": "Chubascos dispersos"
+      },
+      "arrival": {
+        "temp_min": null,
+        "temp_max": null,
+        "description": null
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:55:13"
+  },
+  {
+    "flight_number": "AEA7234",
+    "plane": "EMBRAER ERJ-195",
+    "departure": {
+      "airport_name": "A CORUÑA",
+      "airport_code": "LCG",
+      "terminal": null,
+      "counter": null,
+      "gate": "3",
+      "datetime_scheduled": "2018-04-13T12:15:00",
+      "datetime_actual": "2018-04-13T12:15:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Salida prevista a las 12:15"
+    },
+    "arrival": {
+      "airport_name": "MADRID-BARAJAS ADOLFO SUÁREZ",
+      "airport_code": "MAD",
+      "terminal": "2",
+      "room": "06",
+      "belt": "17",
+      "datetime_scheduled": "2018-04-13T13:25:00",
+      "datetime_actual": "2018-04-13T13:22:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Llegada prevista a las 13:22"
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 10.0,
+        "temp_max": 15.0,
+        "description": "Chubascos dispersos"
+      },
+      "arrival": {
+        "temp_min": 6.0,
+        "temp_max": 14.0,
+        "description": "Chubascos dispersos"
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:55:17"
+  },
+  {
+    "flight_number": "IBE0513",
+    "plane": "AIRBUS A320",
+    "departure": {
+      "airport_name": "A CORUÑA",
+      "airport_code": "LCG",
+      "terminal": null,
+      "counter": null,
+      "gate": "3",
+      "datetime_scheduled": "2018-04-13T13:35:00",
+      "datetime_actual": "2018-04-13T13:35:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Salida prevista a las 13:35"
+    },
+    "arrival": {
+      "airport_name": "MADRID-BARAJAS ADOLFO SUÁREZ",
+      "airport_code": "MAD",
+      "terminal": "4",
+      "room": "10",
+      "belt": "11",
+      "datetime_scheduled": "2018-04-13T15:00:00",
+      "datetime_actual": "2018-04-13T15:00:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Llegada prevista a las 15:00"
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 10.0,
+        "temp_max": 15.0,
+        "description": "Chubascos dispersos"
+      },
+      "arrival": {
+        "temp_min": 6.0,
+        "temp_max": 14.0,
+        "description": "Chubascos dispersos"
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:55:18"
+  },
+  {
+    "flight_number": "VLG1274",
+    "plane": "32A",
+    "departure": {
+      "airport_name": "A CORUÑA",
+      "airport_code": "LCG",
+      "terminal": null,
+      "counter": null,
+      "gate": "4",
+      "datetime_scheduled": "2018-04-13T14:05:00",
+      "datetime_actual": "2018-04-13T14:05:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Salida prevista a las 14:05"
+    },
+    "arrival": {
+      "airport_name": "VALENCIA",
+      "airport_code": "VLC",
+      "terminal": "1",
+      "room": "3",
+      "belt": "8",
+      "datetime_scheduled": "2018-04-13T15:30:00",
+      "datetime_actual": "2018-04-13T15:30:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Llegada prevista a las 15:30"
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 10.0,
+        "temp_max": 15.0,
+        "description": "Chubascos dispersos"
+      },
+      "arrival": {
+        "temp_min": 11.0,
+        "temp_max": 21.0,
+        "description": "Nubosidad variable"
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:55:19"
+  },
+  {
+    "flight_number": "VLG1298",
+    "plane": "AIRBUS A320",
+    "departure": {
+      "airport_name": "A CORUÑA",
+      "airport_code": "LCG",
+      "terminal": null,
+      "counter": null,
+      "gate": "3",
+      "datetime_scheduled": "2018-04-13T15:05:00",
+      "datetime_actual": "2018-04-13T15:05:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Salida prevista a las 15:05"
+    },
+    "arrival": {
+      "airport_name": "SEVILLA",
+      "airport_code": "SVQ",
+      "terminal": "1",
+      "room": "B",
+      "belt": "3",
+      "datetime_scheduled": "2018-04-13T16:30:00",
+      "datetime_actual": "2018-04-13T16:30:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Llegada prevista a las 16:30"
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 10.0,
+        "temp_max": 15.0,
+        "description": "Chubascos dispersos"
+      },
+      "arrival": {
+        "temp_min": 8.0,
+        "temp_max": 17.0,
+        "description": "Lluvia"
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:55:19"
+  },
+  {
+    "flight_number": "AEA7236",
+    "plane": "EMBRAER ERJ-195",
+    "departure": {
+      "airport_name": "A CORUÑA",
+      "airport_code": "LCG",
+      "terminal": null,
+      "counter": null,
+      "gate": "3",
+      "datetime_scheduled": "2018-04-13T16:15:00",
+      "datetime_actual": "2018-04-13T16:15:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Salida prevista a las 16:15"
+    },
+    "arrival": {
+      "airport_name": "MADRID-BARAJAS ADOLFO SUÁREZ",
+      "airport_code": "MAD",
+      "terminal": "2",
+      "room": "06",
+      "belt": "18",
+      "datetime_scheduled": "2018-04-13T17:25:00",
+      "datetime_actual": "2018-04-13T17:25:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Llegada prevista a las 17:25"
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 10.0,
+        "temp_max": 15.0,
+        "description": "Chubascos dispersos"
+      },
+      "arrival": {
+        "temp_min": 6.0,
+        "temp_max": 14.0,
+        "description": "Chubascos dispersos"
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:55:23"
+  },
+  {
+    "flight_number": "IBE0523",
+    "plane": "AIRBUS A320",
+    "departure": {
+      "airport_name": "A CORUÑA",
+      "airport_code": "LCG",
+      "terminal": null,
+      "counter": null,
+      "gate": "3",
+      "datetime_scheduled": "2018-04-13T17:40:00",
+      "datetime_actual": "2018-04-13T17:40:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Salida prevista a las 17:40"
+    },
+    "arrival": {
+      "airport_name": "MADRID-BARAJAS ADOLFO SUÁREZ",
+      "airport_code": "MAD",
+      "terminal": "4",
+      "room": "10",
+      "belt": "11",
+      "datetime_scheduled": "2018-04-13T18:55:00",
+      "datetime_actual": "2018-04-13T18:55:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Llegada prevista a las 18:55"
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 10.0,
+        "temp_max": 15.0,
+        "description": "Chubascos dispersos"
+      },
+      "arrival": {
+        "temp_min": 6.0,
+        "temp_max": 14.0,
+        "description": "Chubascos dispersos"
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:55:26"
+  },
+  {
+    "flight_number": "VLG1295",
+    "plane": "AIRBUS A320",
+    "departure": {
+      "airport_name": "A CORUÑA",
+      "airport_code": "LCG",
+      "terminal": null,
+      "counter": null,
+      "gate": "1",
+      "datetime_scheduled": "2018-04-13T17:50:00",
+      "datetime_actual": "2018-04-13T17:50:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Salida prevista a las 17:50"
+    },
+    "arrival": {
+      "airport_name": "BARCELONA-EL PRAT",
+      "airport_code": "BCN",
+      "terminal": "T1",
+      "room": "T1_G",
+      "belt": "07",
+      "datetime_scheduled": "2018-04-13T19:25:00",
+      "datetime_actual": "2018-04-13T19:25:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Llegada prevista a las 19:25"
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 10.0,
+        "temp_max": 15.0,
+        "description": "Chubascos dispersos"
+      },
+      "arrival": {
+        "temp_min": 12.0,
+        "temp_max": 17.0,
+        "description": "Lluvia moderada"
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:55:30"
+  },
+  {
+    "flight_number": "VLG7104",
+    "plane": "AIRBUS A320",
+    "departure": {
+      "airport_name": "A CORUÑA",
+      "airport_code": "LCG",
+      "terminal": null,
+      "counter": null,
+      "gate": "4",
+      "datetime_scheduled": "2018-04-13T18:15:00",
+      "datetime_actual": "2018-04-13T18:15:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Salida prevista a las 18:15"
+    },
+    "arrival": {
+      "airport_name": "LONDRES / HEATHROW",
+      "airport_code": "LHR",
+      "terminal": null,
+      "room": null,
+      "belt": null,
+      "datetime_scheduled": null,
+      "datetime_actual": null,
+      "status_code": "DESCONOCIDO",
+      "status_text": null
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 10.0,
+        "temp_max": 15.0,
+        "description": "Chubascos dispersos"
+      },
+      "arrival": {
+        "temp_min": null,
+        "temp_max": null,
+        "description": null
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:55:32"
+  },
+  {
+    "flight_number": "AEA7238",
+    "plane": "EMBRAER ERJ-195",
+    "departure": {
+      "airport_name": "A CORUÑA",
+      "airport_code": "LCG",
+      "terminal": null,
+      "counter": null,
+      "gate": "3",
+      "datetime_scheduled": "2018-04-13T20:45:00",
+      "datetime_actual": "2018-04-13T20:45:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Salida prevista a las 20:45"
+    },
+    "arrival": {
+      "airport_name": "MADRID-BARAJAS ADOLFO SUÁREZ",
+      "airport_code": "MAD",
+      "terminal": "2",
+      "room": "06",
+      "belt": "17",
+      "datetime_scheduled": "2018-04-13T21:55:00",
+      "datetime_actual": "2018-04-13T21:55:00",
+      "status_code": "PROGRAMADO",
+      "status_text": "Llegada prevista a las 21:55"
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 10.0,
+        "temp_max": 15.0,
+        "description": "Chubascos dispersos"
+      },
+      "arrival": {
+        "temp_min": 6.0,
+        "temp_max": 14.0,
+        "description": "Chubascos dispersos"
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:55:34"
+  },
+  {
+    "flight_number": "VLG1303",
+    "plane": "32A",
+    "departure": {
+      "airport_name": "ALICANTE-ELCHE",
+      "airport_code": "ALC",
+      "terminal": "N",
+      "counter": "10 - 16",
+      "gate": "C43",
+      "datetime_scheduled": "2018-04-13T08:35:00",
+      "datetime_actual": "2018-04-13T09:04:00",
+      "status_code": "DESPEGADO",
+      "status_text": "El vuelo ha despegado a las 09:04"
+    },
+    "arrival": {
+      "airport_name": "BARCELONA-EL PRAT",
+      "airport_code": "BCN",
+      "terminal": "T1",
+      "room": "T1_G",
+      "belt": "08",
+      "datetime_scheduled": "2018-04-13T09:45:00",
+      "datetime_actual": "2018-04-13T10:03:00",
+      "status_code": "ATERRIZADO",
+      "status_text": "El vuelo ha aterrizado a las 10:03"
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 11.0,
+        "temp_max": 18.0,
+        "description": "Nubosidad variable"
+      },
+      "arrival": {
+        "temp_min": 12.0,
+        "temp_max": 17.0,
+        "description": "Lluvia moderada"
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:55:11"
+  },
+  {
+    "flight_number": "RYR8287",
+    "plane": "BOEING 737-800 WINGLETS",
+    "departure": {
+      "airport_name": "ALICANTE-ELCHE",
+      "airport_code": "ALC",
+      "terminal": "N",
+      "counter": "50 - 54",
+      "gate": "B26",
+      "datetime_scheduled": "2018-04-13T09:10:00",
+      "datetime_actual": "2018-04-13T09:12:00",
+      "status_code": "DESPEGADO",
+      "status_text": "El vuelo ha despegado a las 09:12"
+    },
+    "arrival": {
+      "airport_name": "BRISTOL",
+      "airport_code": "BRS",
+      "terminal": null,
+      "room": null,
+      "belt": null,
+      "datetime_scheduled": null,
+      "datetime_actual": null,
+      "status_code": "DESCONOCIDO",
+      "status_text": null
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 11.0,
+        "temp_max": 18.0,
+        "description": "Nubosidad variable"
+      },
+      "arrival": {
+        "temp_min": null,
+        "temp_max": null,
+        "description": null
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:55:15"
+  },
+  {
+    "flight_number": "BEL3772",
+    "plane": "AIRBUS A320",
+    "departure": {
+      "airport_name": "ALICANTE-ELCHE",
+      "airport_code": "ALC",
+      "terminal": "N",
+      "counter": "111 - 112",
+      "gate": "C37",
+      "datetime_scheduled": "2018-04-13T09:15:00",
+      "datetime_actual": "2018-04-13T09:08:00",
+      "status_code": "DESPEGADO",
+      "status_text": "El vuelo ha despegado a las 09:08"
+    },
+    "arrival": {
+      "airport_name": "BRUSELAS",
+      "airport_code": "BRU",
+      "terminal": null,
+      "room": null,
+      "belt": null,
+      "datetime_scheduled": null,
+      "datetime_actual": null,
+      "status_code": "DESCONOCIDO",
+      "status_text": null
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 11.0,
+        "temp_max": 18.0,
+        "description": "Nubosidad variable"
+      },
+      "arrival": {
+        "temp_min": null,
+        "temp_max": null,
+        "description": null
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:55:19"
+  },
+  {
+    "flight_number": "JAF5358",
+    "plane": "7M8",
+    "departure": {
+      "airport_name": "ALICANTE-ELCHE",
+      "airport_code": "ALC",
+      "terminal": "N",
+      "counter": "93 - 94",
+      "gate": "C41",
+      "datetime_scheduled": "2018-04-13T09:20:00",
+      "datetime_actual": "2018-04-13T09:28:00",
+      "status_code": "DESPEGADO",
+      "status_text": "El vuelo ha despegado a las 09:28"
+    },
+    "arrival": {
+      "airport_name": "BRUSELAS",
+      "airport_code": "BRU",
+      "terminal": null,
+      "room": null,
+      "belt": null,
+      "datetime_scheduled": null,
+      "datetime_actual": null,
+      "status_code": "DESCONOCIDO",
+      "status_text": null
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 11.0,
+        "temp_max": 18.0,
+        "description": "Nubosidad variable"
+      },
+      "arrival": {
+        "temp_min": null,
+        "temp_max": null,
+        "description": null
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:55:20"
+  },
+  {
+    "flight_number": "EWG9533",
+    "plane": "32A",
+    "departure": {
+      "airport_name": "ALICANTE-ELCHE",
+      "airport_code": "ALC",
+      "terminal": "N",
+      "counter": "113 - 114",
+      "gate": "C45",
+      "datetime_scheduled": "2018-04-13T09:25:00",
+      "datetime_actual": "2018-04-13T09:36:00",
+      "status_code": "DESPEGADO",
+      "status_text": "El vuelo ha despegado a las 09:36"
+    },
+    "arrival": {
+      "airport_name": "DUSSELDORF",
+      "airport_code": "DUS",
+      "terminal": null,
+      "room": null,
+      "belt": null,
+      "datetime_scheduled": null,
+      "datetime_actual": null,
+      "status_code": "DESCONOCIDO",
+      "status_text": null
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 11.0,
+        "temp_max": 18.0,
+        "description": "Nubosidad variable"
+      },
+      "arrival": {
+        "temp_min": null,
+        "temp_max": null,
+        "description": null
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:55:25"
+  },
+  {
+    "flight_number": "IBK5414",
+    "plane": "BOEING 737-800 WINGLETS",
+    "departure": {
+      "airport_name": "ALICANTE-ELCHE",
+      "airport_code": "ALC",
+      "terminal": "N",
+      "counter": "70 - 75",
+      "gate": "B31",
+      "datetime_scheduled": "2018-04-13T09:30:00",
+      "datetime_actual": "2018-04-13T09:25:00",
+      "status_code": "DESPEGADO",
+      "status_text": "El vuelo ha despegado a las 09:25"
+    },
+    "arrival": {
+      "airport_name": "DUSSELDORF",
+      "airport_code": "DUS",
+      "terminal": null,
+      "room": null,
+      "belt": null,
+      "datetime_scheduled": null,
+      "datetime_actual": null,
+      "status_code": "DESCONOCIDO",
+      "status_text": null
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 11.0,
+        "temp_max": 18.0,
+        "description": "Nubosidad variable"
+      },
+      "arrival": {
+        "temp_min": null,
+        "temp_max": null,
+        "description": null
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:55:27"
+  },
+  {
+    "flight_number": "ANE8391",
+    "plane": "BOMBARDIER CRJ-1000",
+    "departure": {
+      "airport_name": "ALICANTE-ELCHE",
+      "airport_code": "ALC",
+      "terminal": "N",
+      "counter": "20 - 21",
+      "gate": "B30",
+      "datetime_scheduled": "2018-04-13T09:40:00",
+      "datetime_actual": "2018-04-13T09:51:00",
+      "status_code": "DESPEGADO",
+      "status_text": "El vuelo ha despegado a las 09:51"
+    },
+    "arrival": {
+      "airport_name": "MADRID-BARAJAS ADOLFO SUÁREZ",
+      "airport_code": "MAD",
+      "terminal": null,
+      "room": null,
+      "belt": null,
+      "datetime_scheduled": null,
+      "datetime_actual": null,
+      "status_code": "DESCONOCIDO",
+      "status_text": null
+    },
+    "weather": {
+      "departure": {
+        "temp_min": 11.0,
+        "temp_max": 18.0,
+        "description": "Nubosidad variable"
+      },
+      "arrival": {
+        "temp_min": null,
+        "temp_max": null,
+        "description": null
+      }
+    },
+    "ingestion_timestamp": "2018-04-13T10:55:27"
+  }
+]
