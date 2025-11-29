@@ -16,6 +16,7 @@ LabTestDB.compras.json
 
 
 data/
+datos/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
