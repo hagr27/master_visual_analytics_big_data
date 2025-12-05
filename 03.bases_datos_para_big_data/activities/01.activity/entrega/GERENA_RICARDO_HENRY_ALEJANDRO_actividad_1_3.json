@@ -1,7 +1,7 @@
 [
   {
     "flight_number": "HTY134",
-    "plane": "AWH",
+    "cod_plane": "AWH",
     "departure": {
       "airport_name": "ALGECIRAS / HELIPUERTO",
       "airport_code": "AEI",
@@ -40,7 +40,7 @@
   },
   {
     "flight_number": "HTY110",
-    "plane": "AWH",
+    "cod_plane": "AWH",
     "departure": {
       "airport_name": "CEUTA",
       "airport_code": "JCU",
@@ -79,7 +79,7 @@
   },
   {
     "flight_number": "HTY112",
-    "plane": "AWH",
+    "cod_plane": "AWH",
     "departure": {
       "airport_name": "ALGECIRAS / HELIPUERTO",
       "airport_code": "AEI",
@@ -118,7 +118,7 @@
   },
   {
     "flight_number": "HTY114",
-    "plane": "AWH",
+    "cod_plane": "AWH",
     "departure": {
       "airport_name": "ALGECIRAS / HELIPUERTO",
       "airport_code": "AEI",
@@ -157,7 +157,7 @@
   },
   {
     "flight_number": "HTY138",
-    "plane": "AWH",
+    "cod_plane": "AWH",
     "departure": {
       "airport_name": "ALGECIRAS / HELIPUERTO",
       "airport_code": "AEI",
@@ -196,7 +196,7 @@
   },
   {
     "flight_number": "HTY133",
-    "plane": "AWH",
+    "cod_plane": "AWH",
     "departure": {
       "airport_name": "CEUTA",
       "airport_code": "JCU",
@@ -235,7 +235,7 @@
   },
   {
     "flight_number": "HTY109",
-    "plane": "AWH",
+    "cod_plane": "AWH",
     "departure": {
       "airport_name": "CEUTA",
       "airport_code": "JCU",
@@ -274,7 +274,7 @@
   },
   {
     "flight_number": "HTY111",
-    "plane": "AWH",
+    "cod_plane": "AWH",
     "departure": {
       "airport_name": "CEUTA",
       "airport_code": "JCU",
@@ -313,7 +313,7 @@
   },
   {
     "flight_number": "HTY113",
-    "plane": "AWH",
+    "cod_plane": "AWH",
     "departure": {
       "airport_name": "CEUTA",
       "airport_code": "JCU",
@@ -352,7 +352,7 @@
   },
   {
     "flight_number": "HTY137",
-    "plane": "AWH",
+    "cod_plane": "AWH",
     "departure": {
       "airport_name": "CEUTA",
       "airport_code": "JCU",
@@ -391,7 +391,7 @@
   },
   {
     "flight_number": "IBE0519",
-    "plane": "AIRBUS A319",
+    "cod_plane": "AIRBUS A319",
     "departure": {
       "airport_name": "A CORUÑA",
       "airport_code": "LCG",
@@ -430,7 +430,7 @@
   },
   {
     "flight_number": "TAP1085",
-    "plane": "ATR-42/72",
+    "cod_plane": "ATR-42/72",
     "departure": {
       "airport_name": "A CORUÑA",
       "airport_code": "LCG",
@@ -469,7 +469,7 @@
   },
   {
     "flight_number": "AEA7234",
-    "plane": "EMBRAER ERJ-195",
+    "cod_plane": "EMBRAER ERJ-195",
     "departure": {
       "airport_name": "A CORUÑA",
       "airport_code": "LCG",
@@ -508,7 +508,7 @@
   },
   {
     "flight_number": "IBE0513",
-    "plane": "AIRBUS A320",
+    "cod_plane": "AIRBUS A320",
     "departure": {
       "airport_name": "A CORUÑA",
       "airport_code": "LCG",
@@ -547,7 +547,7 @@
   },
   {
     "flight_number": "VLG1274",
-    "plane": "32A",
+    "cod_plane": "32A",
     "departure": {
       "airport_name": "A CORUÑA",
       "airport_code": "LCG",
@@ -586,7 +586,7 @@
   },
   {
     "flight_number": "VLG1298",
-    "plane": "AIRBUS A320",
+    "cod_plane": "AIRBUS A320",
     "departure": {
       "airport_name": "A CORUÑA",
       "airport_code": "LCG",
@@ -625,7 +625,7 @@
   },
   {
     "flight_number": "AEA7236",
-    "plane": "EMBRAER ERJ-195",
+    "cod_plane": "EMBRAER ERJ-195",
     "departure": {
       "airport_name": "A CORUÑA",
       "airport_code": "LCG",
@@ -664,7 +664,7 @@
   },
   {
     "flight_number": "IBE0523",
-    "plane": "AIRBUS A320",
+    "cod_plane": "AIRBUS A320",
     "departure": {
       "airport_name": "A CORUÑA",
       "airport_code": "LCG",
@@ -703,7 +703,7 @@
   },
   {
     "flight_number": "VLG1295",
-    "plane": "AIRBUS A320",
+    "cod_plane": "AIRBUS A320",
     "departure": {
       "airport_name": "A CORUÑA",
       "airport_code": "LCG",
@@ -742,7 +742,7 @@
   },
   {
     "flight_number": "VLG7104",
-    "plane": "AIRBUS A320",
+    "cod_plane": "AIRBUS A320",
     "departure": {
       "airport_name": "A CORUÑA",
       "airport_code": "LCG",
@@ -781,7 +781,7 @@
   },
   {
     "flight_number": "LZF440",
-    "plane": "ATR 42-300/320",
+    "cod_plane": "ATR 42-300/320",
     "departure": {
       "airport_name": "BILBAO",
       "airport_code": "BIO",
@@ -820,7 +820,7 @@
   },
   {
     "flight_number": "AEA7238",
-    "plane": "EMBRAER ERJ-195",
+    "cod_plane": "EMBRAER ERJ-195",
     "departure": {
       "airport_name": "A CORUÑA",
       "airport_code": "LCG",
@@ -859,7 +859,7 @@
   },
   {
     "flight_number": "VLG1303",
-    "plane": "32A",
+    "cod_plane": "32A",
     "departure": {
       "airport_name": "ALICANTE-ELCHE",
       "airport_code": "ALC",
@@ -898,7 +898,7 @@
   },
   {
     "flight_number": "AEA4025",
-    "plane": "ATR-72",
+    "cod_plane": "ATR-72",
     "departure": {
       "airport_name": "ALICANTE-ELCHE",
       "airport_code": "ALC",
@@ -937,7 +937,7 @@
   },
   {
     "flight_number": "RYR4019",
-    "plane": "BOEING 737-800 WINGLETS",
+    "cod_plane": "BOEING 737-800 WINGLETS",
     "departure": {
       "airport_name": "ALICANTE-ELCHE",
       "airport_code": "ALC",
@@ -976,7 +976,7 @@
   },
   {
     "flight_number": "RYR8287",
-    "plane": "BOEING 737-800 WINGLETS",
+    "cod_plane": "BOEING 737-800 WINGLETS",
     "departure": {
       "airport_name": "ALICANTE-ELCHE",
       "airport_code": "ALC",
@@ -1015,7 +1015,7 @@
   },
   {
     "flight_number": "BEL3772",
-    "plane": "AIRBUS A320",
+    "cod_plane": "AIRBUS A320",
     "departure": {
       "airport_name": "ALICANTE-ELCHE",
       "airport_code": "ALC",
@@ -1054,7 +1054,7 @@
   },
   {
     "flight_number": "JAF5358",
-    "plane": "7M8",
+    "cod_plane": "7M8",
     "departure": {
       "airport_name": "ALICANTE-ELCHE",
       "airport_code": "ALC",
@@ -1093,7 +1093,7 @@
   },
   {
     "flight_number": "EWG9533",
-    "plane": "32A",
+    "cod_plane": "32A",
     "departure": {
       "airport_name": "ALICANTE-ELCHE",
       "airport_code": "ALC",
@@ -1132,7 +1132,7 @@
   },
   {
     "flight_number": "IBK5414",
-    "plane": "BOEING 737-800 WINGLETS",
+    "cod_plane": "BOEING 737-800 WINGLETS",
     "departure": {
       "airport_name": "ALICANTE-ELCHE",
       "airport_code": "ALC",
@@ -1171,7 +1171,7 @@
   },
   {
     "flight_number": "ANE8391",
-    "plane": "BOMBARDIER CRJ-1000",
+    "cod_plane": "BOMBARDIER CRJ-1000",
     "departure": {
       "airport_name": "ALICANTE-ELCHE",
       "airport_code": "ALC",
@@ -1210,7 +1210,7 @@
   },
   {
     "flight_number": "JAF5842",
-    "plane": "BOEING 737-700 WINGLETS",
+    "cod_plane": "BOEING 737-700 WINGLETS",
     "departure": {
       "airport_name": "ALICANTE-ELCHE",
       "airport_code": "ALC",
@@ -1249,7 +1249,7 @@
   },
   {
     "flight_number": "EZY8660",
-    "plane": "AIRBUS A319",
+    "cod_plane": "AIRBUS A319",
     "departure": {
       "airport_name": "ALICANTE-ELCHE",
       "airport_code": "ALC",
@@ -1288,7 +1288,7 @@
   },
   {
     "flight_number": "ENT520",
-    "plane": "BOEING 737-800 WINGLETS",
+    "cod_plane": "BOEING 737-800 WINGLETS",
     "departure": {
       "airport_name": "ALICANTE-ELCHE",
       "airport_code": "ALC",
@@ -1327,7 +1327,7 @@
   },
   {
     "flight_number": "TRA6144",
-    "plane": "BOEING 737-800 WINGLETS",
+    "cod_plane": "BOEING 737-800 WINGLETS",
     "departure": {
       "airport_name": "ALICANTE-ELCHE",
       "airport_code": "ALC",
@@ -1366,7 +1366,7 @@
   },
   {
     "flight_number": "TRA6626",
-    "plane": "BOEING 737-800 WINGLETS",
+    "cod_plane": "BOEING 737-800 WINGLETS",
     "departure": {
       "airport_name": "ALICANTE-ELCHE",
       "airport_code": "ALC",
@@ -1405,7 +1405,7 @@
   },
   {
     "flight_number": "TRA5052",
-    "plane": "BOEING 737-700 WINGLETS",
+    "cod_plane": "BOEING 737-700 WINGLETS",
     "departure": {
       "airport_name": "ALICANTE-ELCHE",
       "airport_code": "ALC",
@@ -1444,7 +1444,7 @@
   },
   {
     "flight_number": "VLG1392",
-    "plane": "32A",
+    "cod_plane": "32A",
     "departure": {
       "airport_name": "ALICANTE-ELCHE",
       "airport_code": "ALC",
@@ -1483,7 +1483,7 @@
   },
   {
     "flight_number": "VLG1374",
-    "plane": "AIRBUS A320",
+    "cod_plane": "AIRBUS A320",
     "departure": {
       "airport_name": "ALICANTE-ELCHE",
       "airport_code": "ALC",
@@ -1522,7 +1522,7 @@
   },
   {
     "flight_number": "IBE8213",
-    "plane": "CANADAIR CRJ-200",
+    "cod_plane": "CANADAIR CRJ-200",
     "departure": {
       "airport_name": "ALMERIA",
       "airport_code": "LEI",
@@ -1561,7 +1561,7 @@
   },
   {
     "flight_number": "EZY8164",
-    "plane": "AIRBUS A320",
+    "cod_plane": "AIRBUS A320",
     "departure": {
       "airport_name": "ALMERIA",
       "airport_code": "LEI",
@@ -1600,7 +1600,7 @@
   },
   {
     "flight_number": "IBE8595",
-    "plane": "BOMBARDIER CRJ-1000",
+    "cod_plane": "BOMBARDIER CRJ-1000",
     "departure": {
       "airport_name": "ALMERIA",
       "airport_code": "LEI",
@@ -1639,7 +1639,7 @@
   },
   {
     "flight_number": "RYR8352",
-    "plane": "BOEING 737-800 WINGLETS",
+    "cod_plane": "BOEING 737-800 WINGLETS",
     "departure": {
       "airport_name": "ALMERIA",
       "airport_code": "LEI",
@@ -1678,7 +1678,7 @@
   },
   {
     "flight_number": "VLG1252",
-    "plane": "AIRBUS A320",
+    "cod_plane": "AIRBUS A320",
     "departure": {
       "airport_name": "ALMERIA",
       "airport_code": "LEI",
@@ -1717,7 +1717,7 @@
   },
   {
     "flight_number": "IBE8577",
-    "plane": "BOMBARDIER CRJ-1000",
+    "cod_plane": "BOMBARDIER CRJ-1000",
     "departure": {
       "airport_name": "ALMERIA",
       "airport_code": "LEI",
@@ -1756,7 +1756,7 @@
   },
   {
     "flight_number": "IBE8589",
-    "plane": "CANADAIR CRJ-200",
+    "cod_plane": "CANADAIR CRJ-200",
     "departure": {
       "airport_name": "ALMERIA",
       "airport_code": "LEI",
@@ -1795,7 +1795,7 @@
   },
   {
     "flight_number": "IBE8601",
-    "plane": "BOMBARDIER CRJ-1000",
+    "cod_plane": "BOMBARDIER CRJ-1000",
     "departure": {
       "airport_name": "ALMERIA",
       "airport_code": "LEI",
@@ -1834,7 +1834,7 @@
   },
   {
     "flight_number": "GMI2381",
-    "plane": "BOEING 737-700 WINGLETS",
+    "cod_plane": "BOEING 737-700 WINGLETS",
     "departure": {
       "airport_name": "ALMERIA",
       "airport_code": "LEI",
@@ -1873,7 +1873,7 @@
   },
   {
     "flight_number": "RYR1259",
-    "plane": "BOEING 737-800 WINGLETS",
+    "cod_plane": "BOEING 737-800 WINGLETS",
     "departure": {
       "airport_name": "ALMERIA",
       "airport_code": "LEI",
@@ -1912,7 +1912,7 @@
   },
   {
     "flight_number": "IBE8932",
-    "plane": "CANADAIR CRJ-200",
+    "cod_plane": "CANADAIR CRJ-200",
     "departure": {
       "airport_name": "ALMERIA",
       "airport_code": "LEI",
@@ -1951,7 +1951,7 @@
   },
   {
     "flight_number": "IBE8603",
-    "plane": "BOMBARDIER CRJ-1000",
+    "cod_plane": "BOMBARDIER CRJ-1000",
     "departure": {
       "airport_name": "ALMERIA",
       "airport_code": "LEI",
@@ -1990,7 +1990,7 @@
   },
   {
     "flight_number": "LGL694",
-    "plane": "BOEING 737-800 WINGLETS",
+    "cod_plane": "BOEING 737-800 WINGLETS",
     "departure": {
       "airport_name": "ALMERIA",
       "airport_code": "LEI",
@@ -2029,7 +2029,7 @@
   },
   {
     "flight_number": "JAF6944",
-    "plane": "EMBRAER 190",
+    "cod_plane": "EMBRAER 190",
     "departure": {
       "airport_name": "ALMERIA",
       "airport_code": "LEI",
@@ -2068,7 +2068,7 @@
   },
   {
     "flight_number": "IBE0514",
-    "plane": "AIRBUS A319",
+    "cod_plane": "AIRBUS A319",
     "departure": {
       "airport_name": "MADRID-BARAJAS ADOLFO SUÁREZ",
       "airport_code": "MAD",
@@ -2107,7 +2107,7 @@
   },
   {
     "flight_number": "VLG1292",
-    "plane": "32A",
+    "cod_plane": "32A",
     "departure": {
       "airport_name": "BARCELONA-EL PRAT",
       "airport_code": "BCN",
@@ -2146,7 +2146,7 @@
   },
   {
     "flight_number": "AEA7233",
-    "plane": "EMBRAER ERJ-195",
+    "cod_plane": "EMBRAER ERJ-195",
     "departure": {
       "airport_name": "MADRID-BARAJAS ADOLFO SUÁREZ",
       "airport_code": "MAD",
@@ -2185,7 +2185,7 @@
   },
   {
     "flight_number": "IBE0512",
-    "plane": "AIRBUS A320",
+    "cod_plane": "AIRBUS A320",
     "departure": {
       "airport_name": "MADRID-BARAJAS ADOLFO SUÁREZ",
       "airport_code": "MAD",
@@ -2224,7 +2224,7 @@
   },
   {
     "flight_number": "VLG1299",
-    "plane": "AIRBUS A320",
+    "cod_plane": "AIRBUS A320",
     "departure": {
       "airport_name": "SEVILLA",
       "airport_code": "SVQ",
@@ -2263,7 +2263,7 @@
   },
   {
     "flight_number": "AEA7235",
-    "plane": "EMBRAER ERJ-195",
+    "cod_plane": "EMBRAER ERJ-195",
     "departure": {
       "airport_name": "MADRID-BARAJAS ADOLFO SUÁREZ",
       "airport_code": "MAD",
@@ -2302,7 +2302,7 @@
   },
   {
     "flight_number": "IBE0524",
-    "plane": "AIRBUS A320",
+    "cod_plane": "AIRBUS A320",
     "departure": {
       "airport_name": "MADRID-BARAJAS ADOLFO SUÁREZ",
       "airport_code": "MAD",
@@ -2341,7 +2341,7 @@
   },
   {
     "flight_number": "VLG1294",
-    "plane": "AIRBUS A320",
+    "cod_plane": "AIRBUS A320",
     "departure": {
       "airport_name": "BARCELONA-EL PRAT",
       "airport_code": "BCN",
@@ -2380,7 +2380,7 @@
   },
   {
     "flight_number": "ANE8390",
-    "plane": "BOMBARDIER CRJ-1000",
+    "cod_plane": "BOMBARDIER CRJ-1000",
     "departure": {
       "airport_name": "MADRID-BARAJAS ADOLFO SUÁREZ",
       "airport_code": "MAD",
@@ -2419,7 +2419,7 @@
   },
   {
     "flight_number": "VLG3935",
-    "plane": "AIRBUS A320",
+    "cod_plane": "AIRBUS A320",
     "departure": {
       "airport_name": "PALMA DE MALLORCA",
       "airport_code": "PMI",
@@ -2458,7 +2458,7 @@
   },
   {
     "flight_number": "VLG1312",
-    "plane": "AIRBUS A320",
+    "cod_plane": "AIRBUS A320",
     "departure": {
       "airport_name": "BARCELONA-EL PRAT",
       "airport_code": "BCN",
@@ -2497,7 +2497,7 @@
   },
   {
     "flight_number": "IBE8931",
-    "plane": "CANADAIR CRJ-200",
+    "cod_plane": "CANADAIR CRJ-200",
     "departure": {
       "airport_name": "SEVILLA",
       "airport_code": "SVQ",
@@ -2536,7 +2536,7 @@
   },
   {
     "flight_number": "IBE8594",
-    "plane": "BOMBARDIER CRJ-1000",
+    "cod_plane": "BOMBARDIER CRJ-1000",
     "departure": {
       "airport_name": "MADRID-BARAJAS ADOLFO SUÁREZ",
       "airport_code": "MAD",
@@ -2575,7 +2575,7 @@
   },
   {
     "flight_number": "VLG1251",
-    "plane": "AIRBUS A320",
+    "cod_plane": "AIRBUS A320",
     "departure": {
       "airport_name": "BARCELONA-EL PRAT",
       "airport_code": "BCN",
@@ -2614,7 +2614,7 @@
   },
   {
     "flight_number": "IBE8598",
-    "plane": "BOMBARDIER CRJ-1000",
+    "cod_plane": "BOMBARDIER CRJ-1000",
     "departure": {
       "airport_name": "MADRID-BARAJAS ADOLFO SUÁREZ",
       "airport_code": "MAD",
@@ -2653,7 +2653,7 @@
   },
   {
     "flight_number": "IBE8212",
-    "plane": "CANADAIR CRJ-200",
+    "cod_plane": "CANADAIR CRJ-200",
     "departure": {
       "airport_name": "PALMA DE MALLORCA",
       "airport_code": "PMI",
@@ -2692,7 +2692,7 @@
   },
   {
     "flight_number": "IBE8592",
-    "plane": "BOMBARDIER CRJ-1000",
+    "cod_plane": "BOMBARDIER CRJ-1000",
     "departure": {
       "airport_name": "MADRID-BARAJAS ADOLFO SUÁREZ",
       "airport_code": "MAD",
@@ -2731,7 +2731,7 @@
   },
   {
     "flight_number": "IBE8588",
-    "plane": "CANADAIR CRJ-200",
+    "cod_plane": "CANADAIR CRJ-200",
     "departure": {
       "airport_name": "MADRID-BARAJAS ADOLFO SUÁREZ",
       "airport_code": "MAD",
@@ -2770,7 +2770,7 @@
   },
   {
     "flight_number": "IBE8600",
-    "plane": "BOMBARDIER CRJ-1000",
+    "cod_plane": "BOMBARDIER CRJ-1000",
     "departure": {
       "airport_name": "MADRID-BARAJAS ADOLFO SUÁREZ",
       "airport_code": "MAD",
@@ -2809,7 +2809,7 @@
   },
   {
     "flight_number": "IBE8594",
-    "plane": "CANADAIR CRJ-900",
+    "cod_plane": "CANADAIR CRJ-900",
     "departure": {
       "airport_name": "MADRID-BARAJAS ADOLFO SUÁREZ",
       "airport_code": "MAD",
@@ -2848,7 +2848,7 @@
   },
   {
     "flight_number": "IBE8759",
-    "plane": "BOMBARDIER CRJ-1000",
+    "cod_plane": "BOMBARDIER CRJ-1000",
     "departure": {
       "airport_name": "LEON",
       "airport_code": "LEN",
@@ -2887,7 +2887,7 @@
   },
   {
     "flight_number": "RYR4421",
-    "plane": "BOEING 737-800 WINGLETS",
+    "cod_plane": "BOEING 737-800 WINGLETS",
     "departure": {
       "airport_name": "VITORIA",
       "airport_code": "VIT",
@@ -2926,7 +2926,7 @@
   },
   {
     "flight_number": "IBE8758",
-    "plane": "BOMBARDIER CRJ-1000",
+    "cod_plane": "BOMBARDIER CRJ-1000",
     "departure": {
       "airport_name": "BARCELONA-EL PRAT",
       "airport_code": "BCN",
@@ -2965,7 +2965,7 @@
   },
   {
     "flight_number": "IBE8221",
-    "plane": "CANADAIR CRJ-200",
+    "cod_plane": "CANADAIR CRJ-200",
     "departure": {
       "airport_name": "LOGROÑO - AGONCILLO",
       "airport_code": "RJL",
@@ -3004,7 +3004,7 @@
   },
   {
     "flight_number": "IBE8224",
-    "plane": "CANADAIR CRJ-200",
+    "cod_plane": "CANADAIR CRJ-200",
     "departure": {
       "airport_name": "MADRID-BARAJAS ADOLFO SUÁREZ",
       "airport_code": "MAD",
@@ -3043,7 +3043,7 @@
   },
   {
     "flight_number": "RYR1074",
-    "plane": "BOEING 737-800 WINGLETS",
+    "cod_plane": "BOEING 737-800 WINGLETS",
     "departure": {
       "airport_name": "REUS",
       "airport_code": "REU",
@@ -3082,7 +3082,7 @@
   },
   {
     "flight_number": "RYR1115",
-    "plane": "BOEING 737-800 WINGLETS",
+    "cod_plane": "BOEING 737-800 WINGLETS",
     "departure": {
       "airport_name": "REUS",
       "airport_code": "REU",
@@ -3121,7 +3121,7 @@
   },
   {
     "flight_number": "RYR2212",
-    "plane": "BOEING 737-800 WINGLETS",
+    "cod_plane": "BOEING 737-800 WINGLETS",
     "departure": {
       "airport_name": "REUS",
       "airport_code": "REU",
@@ -3160,7 +3160,7 @@
   },
   {
     "flight_number": "RYR2212",
-    "plane": "BOEING 737-800 WINGLETS",
+    "cod_plane": "BOEING 737-800 WINGLETS",
     "departure": {
       "airport_name": "REUS",
       "airport_code": "REU",
@@ -3199,7 +3199,7 @@
   },
   {
     "flight_number": "IBE0519",
-    "plane": "AIRBUS A319",
+    "cod_plane": "AIRBUS A319",
     "departure": {
       "airport_name": "A CORUÑA",
       "airport_code": "LCG",
@@ -3238,7 +3238,7 @@
   },
   {
     "flight_number": "TAP1085",
-    "plane": "ATR-42/72",
+    "cod_plane": "ATR-42/72",
     "departure": {
       "airport_name": "A CORUÑA",
       "airport_code": "LCG",
@@ -3277,7 +3277,7 @@
   },
   {
     "flight_number": "AEA7234",
-    "plane": "EMBRAER ERJ-195",
+    "cod_plane": "EMBRAER ERJ-195",
     "departure": {
       "airport_name": "A CORUÑA",
       "airport_code": "LCG",
@@ -3316,7 +3316,7 @@
   },
   {
     "flight_number": "IBE0513",
-    "plane": "AIRBUS A320",
+    "cod_plane": "AIRBUS A320",
     "departure": {
       "airport_name": "A CORUÑA",
       "airport_code": "LCG",
@@ -3355,7 +3355,7 @@
   },
   {
     "flight_number": "VLG1274",
-    "plane": "32A",
+    "cod_plane": "32A",
     "departure": {
       "airport_name": "A CORUÑA",
       "airport_code": "LCG",
@@ -3394,7 +3394,7 @@
   },
   {
     "flight_number": "VLG1298",
-    "plane": "AIRBUS A320",
+    "cod_plane": "AIRBUS A320",
     "departure": {
       "airport_name": "A CORUÑA",
       "airport_code": "LCG",
@@ -3433,7 +3433,7 @@
   },
   {
     "flight_number": "AEA7236",
-    "plane": "EMBRAER ERJ-195",
+    "cod_plane": "EMBRAER ERJ-195",
     "departure": {
       "airport_name": "A CORUÑA",
       "airport_code": "LCG",
@@ -3472,7 +3472,7 @@
   },
   {
     "flight_number": "IBE0523",
-    "plane": "AIRBUS A320",
+    "cod_plane": "AIRBUS A320",
     "departure": {
       "airport_name": "A CORUÑA",
       "airport_code": "LCG",
@@ -3511,7 +3511,7 @@
   },
   {
     "flight_number": "VLG1295",
-    "plane": "AIRBUS A320",
+    "cod_plane": "AIRBUS A320",
     "departure": {
       "airport_name": "A CORUÑA",
       "airport_code": "LCG",
@@ -3550,7 +3550,7 @@
   },
   {
     "flight_number": "VLG7104",
-    "plane": "AIRBUS A320",
+    "cod_plane": "AIRBUS A320",
     "departure": {
       "airport_name": "A CORUÑA",
       "airport_code": "LCG",
@@ -3589,7 +3589,7 @@
   },
   {
     "flight_number": "AEA7238",
-    "plane": "EMBRAER ERJ-195",
+    "cod_plane": "EMBRAER ERJ-195",
     "departure": {
       "airport_name": "A CORUÑA",
       "airport_code": "LCG",
@@ -3628,7 +3628,7 @@
   },
   {
     "flight_number": "VLG1303",
-    "plane": "32A",
+    "cod_plane": "32A",
     "departure": {
       "airport_name": "ALICANTE-ELCHE",
       "airport_code": "ALC",
@@ -3667,7 +3667,7 @@
   },
   {
     "flight_number": "RYR8287",
-    "plane": "BOEING 737-800 WINGLETS",
+    "cod_plane": "BOEING 737-800 WINGLETS",
     "departure": {
       "airport_name": "ALICANTE-ELCHE",
       "airport_code": "ALC",
@@ -3706,7 +3706,7 @@
   },
   {
     "flight_number": "BEL3772",
-    "plane": "AIRBUS A320",
+    "cod_plane": "AIRBUS A320",
     "departure": {
       "airport_name": "ALICANTE-ELCHE",
       "airport_code": "ALC",
@@ -3745,7 +3745,7 @@
   },
   {
     "flight_number": "JAF5358",
-    "plane": "7M8",
+    "cod_plane": "7M8",
     "departure": {
       "airport_name": "ALICANTE-ELCHE",
       "airport_code": "ALC",
@@ -3784,7 +3784,7 @@
   },
   {
     "flight_number": "EWG9533",
-    "plane": "32A",
+    "cod_plane": "32A",
     "departure": {
       "airport_name": "ALICANTE-ELCHE",
       "airport_code": "ALC",
@@ -3823,7 +3823,7 @@
   },
   {
     "flight_number": "IBK5414",
-    "plane": "BOEING 737-800 WINGLETS",
+    "cod_plane": "BOEING 737-800 WINGLETS",
     "departure": {
       "airport_name": "ALICANTE-ELCHE",
       "airport_code": "ALC",
@@ -3862,7 +3862,7 @@
   },
   {
     "flight_number": "ANE8391",
-    "plane": "BOMBARDIER CRJ-1000",
+    "cod_plane": "BOMBARDIER CRJ-1000",
     "departure": {
       "airport_name": "ALICANTE-ELCHE",
       "airport_code": "ALC",

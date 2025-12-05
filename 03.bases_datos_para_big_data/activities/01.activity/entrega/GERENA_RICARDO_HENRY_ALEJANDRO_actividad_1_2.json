@@ -14,9 +14,9 @@
       "escalera": null,
       "planta": null,
       "puerta": null,
-      "cdpostal": 28045.0,
+      "cod_postal": 28045.0,
       "localidad": "Madrid",
-      "signatura": "HM-127",
+      "sigla": "HM-127",
       "categoria_nivel": 3.0,
       "categoria_tipo": "HOTEL"
     }
@@ -36,9 +36,9 @@
       "escalera": null,
       "planta": "3",
       "puerta": null,
-      "cdpostal": 28013.0,
+      "cod_postal": 28013.0,
       "localidad": "Madrid",
-      "signatura": "HM-132",
+      "sigla": "HM-132",
       "categoria_nivel": 2.0,
       "categoria_tipo": "PENSION"
     }
@@ -58,9 +58,9 @@
       "escalera": null,
       "planta": "8",
       "puerta": null,
-      "cdpostal": 28015.0,
+      "cod_postal": 28015.0,
       "localidad": "Madrid",
-      "signatura": "HM-139",
+      "sigla": "HM-139",
       "categoria_nivel": 2.0,
       "categoria_tipo": "HOSTAL"
     }
@@ -80,9 +80,9 @@
       "escalera": null,
       "planta": "4",
       "puerta": "Derecha",
-      "cdpostal": 28014.0,
+      "cod_postal": 28014.0,
       "localidad": "Madrid",
-      "signatura": "HM-142",
+      "sigla": "HM-142",
       "categoria_nivel": 3.0,
       "categoria_tipo": "HOSTAL"
     }
@@ -102,9 +102,9 @@
       "escalera": null,
       "planta": "2",
       "puerta": "2",
-      "cdpostal": 28012.0,
+      "cod_postal": 28012.0,
       "localidad": "Madrid",
-      "signatura": "HM-143",
+      "sigla": "HM-143",
       "categoria_nivel": 3.0,
       "categoria_tipo": "HOSTAL"
     }
@@ -124,9 +124,9 @@
       "escalera": null,
       "planta": "3",
       "puerta": "Derecha",
-      "cdpostal": 28004.0,
+      "cod_postal": 28004.0,
       "localidad": "Madrid",
-      "signatura": "HM-146",
+      "sigla": "HM-146",
       "categoria_nivel": null,
       "categoria_tipo": "CASA HUESPEDES"
     }
@@ -146,9 +146,9 @@
       "escalera": null,
       "planta": "2",
       "puerta": null,
-      "cdpostal": 28004.0,
+      "cod_postal": 28004.0,
       "localidad": "Madrid",
-      "signatura": "HM-147",
+      "sigla": "HM-147",
       "categoria_nivel": 2.0,
       "categoria_tipo": "HOSTAL"
     }
@@ -168,9 +168,9 @@
       "escalera": null,
       "planta": "2",
       "puerta": null,
-      "cdpostal": 28004.0,
+      "cod_postal": 28004.0,
       "localidad": "Madrid",
-      "signatura": "HM-158",
+      "sigla": "HM-158",
       "categoria_nivel": 2.0,
       "categoria_tipo": "HOSTAL"
     }
@@ -190,9 +190,9 @@
       "escalera": null,
       "planta": "4",
       "puerta": null,
-      "cdpostal": 28013.0,
+      "cod_postal": 28013.0,
       "localidad": "Madrid",
-      "signatura": "HM-167",
+      "sigla": "HM-167",
       "categoria_nivel": 2.0,
       "categoria_tipo": "HOSTAL"
     }
@@ -212,9 +212,9 @@
       "escalera": null,
       "planta": "4",
       "puerta": "Exterior Izquierda",
-      "cdpostal": 28013.0,
+      "cod_postal": 28013.0,
       "localidad": "Madrid",
-      "signatura": "HM-173",
+      "sigla": "HM-173",
       "categoria_nivel": 1.0,
       "categoria_tipo": "PENSION"
     }
@@ -234,9 +234,9 @@
       "escalera": null,
       "planta": "5",
       "puerta": "Derecha",
-      "cdpostal": 28013.0,
+      "cod_postal": 28013.0,
       "localidad": "Madrid",
-      "signatura": "HM-175",
+      "sigla": "HM-175",
       "categoria_nivel": 2.0,
       "categoria_tipo": "HOSTAL"
     }
@@ -256,9 +256,9 @@
       "escalera": null,
       "planta": "5",
       "puerta": "A",
-      "cdpostal": 28013.0,
+      "cod_postal": 28013.0,
       "localidad": "Madrid",
-      "signatura": "HM-179",
+      "sigla": "HM-179",
       "categoria_nivel": 2.0,
       "categoria_tipo": "PENSION"
     }
@@ -278,9 +278,9 @@
       "escalera": null,
       "planta": "3",
       "puerta": null,
-      "cdpostal": 28013.0,
+      "cod_postal": 28013.0,
       "localidad": "Madrid",
-      "signatura": "HM-181",
+      "sigla": "HM-181",
       "categoria_nivel": 1.0,
       "categoria_tipo": "PENSION"
     }
@@ -300,9 +300,9 @@
       "escalera": null,
       "planta": "3",
       "puerta": null,
-      "cdpostal": 28012.0,
+      "cod_postal": 28012.0,
       "localidad": "Madrid",
-      "signatura": "HM-189",
+      "sigla": "HM-189",
       "categoria_nivel": 2.0,
       "categoria_tipo": "HOSTAL"
     }
@@ -322,9 +322,9 @@
       "escalera": null,
       "planta": "2",
       "puerta": null,
-      "cdpostal": 28013.0,
+      "cod_postal": 28013.0,
       "localidad": "Madrid",
-      "signatura": "HM-193",
+      "sigla": "HM-193",
       "categoria_nivel": 2.0,
       "categoria_tipo": "HOSTAL"
     }
@@ -344,9 +344,9 @@
       "escalera": null,
       "planta": "8",
       "puerta": null,
-      "cdpostal": 28013.0,
+      "cod_postal": 28013.0,
       "localidad": "Madrid",
-      "signatura": "HM-199",
+      "sigla": "HM-199",
       "categoria_nivel": 3.0,
       "categoria_tipo": "PENSION"
     }
@@ -366,9 +366,9 @@
       "escalera": null,
       "planta": null,
       "puerta": null,
-      "cdpostal": 28045.0,
+      "cod_postal": 28045.0,
       "localidad": "Madrid",
-      "signatura": "HM-205",
+      "sigla": "HM-205",
       "categoria_nivel": 3.0,
       "categoria_tipo": "HOTEL"
     }
@@ -388,9 +388,9 @@
       "escalera": null,
       "planta": "2",
       "puerta": null,
-      "cdpostal": 28012.0,
+      "cod_postal": 28012.0,
       "localidad": "Madrid",
-      "signatura": "HM-210",
+      "sigla": "HM-210",
       "categoria_nivel": 2.0,
       "categoria_tipo": "HOSTAL"
     }
@@ -410,9 +410,9 @@
       "escalera": null,
       "planta": "1",
       "puerta": null,
-      "cdpostal": 28004.0,
+      "cod_postal": 28004.0,
       "localidad": "Madrid",
-      "signatura": "HM-213",
+      "sigla": "HM-213",
       "categoria_nivel": 1.0,
       "categoria_tipo": "PENSION"
     }
@@ -432,9 +432,9 @@
       "escalera": null,
       "planta": "3",
       "puerta": null,
-      "cdpostal": 28012.0,
+      "cod_postal": 28012.0,
       "localidad": "Madrid",
-      "signatura": "HM-215",
+      "sigla": "HM-215",
       "categoria_nivel": null,
       "categoria_tipo": "CASA HUESPEDES"
     }
@@ -454,9 +454,9 @@
       "escalera": null,
       "planta": "4",
       "puerta": "Derecha",
-      "cdpostal": 28004.0,
+      "cod_postal": 28004.0,
       "localidad": "Madrid",
-      "signatura": "HM-217",
+      "sigla": "HM-217",
       "categoria_nivel": 2.0,
       "categoria_tipo": "HOSTAL"
     }
@@ -476,9 +476,9 @@
       "escalera": null,
       "planta": "4",
       "puerta": null,
-      "cdpostal": 28004.0,
+      "cod_postal": 28004.0,
       "localidad": "Madrid",
-      "signatura": "HM-218",
+      "sigla": "HM-218",
       "categoria_nivel": 2.0,
       "categoria_tipo": "HOSTAL"
     }
@@ -498,9 +498,9 @@
       "escalera": null,
       "planta": "8",
       "puerta": "Derecha",
-      "cdpostal": 28013.0,
+      "cod_postal": 28013.0,
       "localidad": "Madrid",
-      "signatura": "HM-221",
+      "sigla": "HM-221",
       "categoria_nivel": 2.0,
       "categoria_tipo": "HOSTAL"
     }
@@ -520,9 +520,9 @@
       "escalera": null,
       "planta": "2",
       "puerta": null,
-      "cdpostal": 28004.0,
+      "cod_postal": 28004.0,
       "localidad": "Madrid",
-      "signatura": "HM-224",
+      "sigla": "HM-224",
       "categoria_nivel": 2.0,
       "categoria_tipo": "HOSTAL"
     }
@@ -542,9 +542,9 @@
       "escalera": null,
       "planta": "3",
       "puerta": null,
-      "cdpostal": 28004.0,
+      "cod_postal": 28004.0,
       "localidad": "Madrid",
-      "signatura": "HM-226",
+      "sigla": "HM-226",
       "categoria_nivel": 2.0,
       "categoria_tipo": "HOSTAL"
     }
@@ -564,9 +564,9 @@
       "escalera": null,
       "planta": null,
       "puerta": null,
-      "cdpostal": 28014.0,
+      "cod_postal": 28014.0,
       "localidad": "Madrid",
-      "signatura": "HM-230",
+      "sigla": "HM-230",
       "categoria_nivel": 3.0,
       "categoria_tipo": "HOSTAL"
     }
@@ -586,9 +586,9 @@
       "escalera": null,
       "planta": "8",
       "puerta": "Izquierda",
-      "cdpostal": 28013.0,
+      "cod_postal": 28013.0,
       "localidad": "Madrid",
-      "signatura": "HM-232",
+      "sigla": "HM-232",
       "categoria_nivel": 1.0,
       "categoria_tipo": "HOSTAL"
     }
@@ -608,9 +608,9 @@
       "escalera": null,
       "planta": "7",
       "puerta": null,
-      "cdpostal": 28013.0,
+      "cod_postal": 28013.0,
       "localidad": "Madrid",
-      "signatura": "HM-236",
+      "sigla": "HM-236",
       "categoria_nivel": 2.0,
       "categoria_tipo": "HOSTAL"
     }
@@ -630,9 +630,9 @@
       "escalera": null,
       "planta": "4",
       "puerta": null,
-      "cdpostal": 28013.0,
+      "cod_postal": 28013.0,
       "localidad": "Madrid",
-      "signatura": "HM-237",
+      "sigla": "HM-237",
       "categoria_nivel": 2.0,
       "categoria_tipo": "HOSTAL"
     }
@@ -652,9 +652,9 @@
       "escalera": null,
       "planta": "3",
       "puerta": null,
-      "cdpostal": 28013.0,
+      "cod_postal": 28013.0,
       "localidad": "Madrid",
-      "signatura": "HM-239",
+      "sigla": "HM-239",
       "categoria_nivel": 2.0,
       "categoria_tipo": "HOSTAL"
     }
@@ -674,9 +674,9 @@
       "escalera": null,
       "planta": null,
       "puerta": null,
-      "cdpostal": 28010.0,
+      "cod_postal": 28010.0,
       "localidad": "Madrid",
-      "signatura": "HM-240",
+      "sigla": "HM-240",
       "categoria_nivel": 3.0,
       "categoria_tipo": "HOTEL"
     }
@@ -696,9 +696,9 @@
       "escalera": null,
       "planta": "3",
       "puerta": null,
-      "cdpostal": 28012.0,
+      "cod_postal": 28012.0,
       "localidad": "Madrid",
-      "signatura": "HM-241",
+      "sigla": "HM-241",
       "categoria_nivel": 1.0,
       "categoria_tipo": "PENSION"
     }
@@ -718,9 +718,9 @@
       "escalera": null,
       "planta": "9",
       "puerta": "Izquierda",
-      "cdpostal": 28013.0,
+      "cod_postal": 28013.0,
       "localidad": "Madrid",
-      "signatura": "HM-243",
+      "sigla": "HM-243",
       "categoria_nivel": 2.0,
       "categoria_tipo": "HOSTAL"
     }
@@ -740,9 +740,9 @@
       "escalera": null,
       "planta": "6",
       "puerta": null,
-      "cdpostal": 28013.0,
+      "cod_postal": 28013.0,
       "localidad": "Madrid",
-      "signatura": "HM-244",
+      "sigla": "HM-244",
       "categoria_nivel": 2.0,
       "categoria_tipo": "HOSTAL"
     }
@@ -762,9 +762,9 @@
       "escalera": null,
       "planta": null,
       "puerta": null,
-      "cdpostal": 28015.0,
+      "cod_postal": 28015.0,
       "localidad": "Madrid",
-      "signatura": "HM-2",
+      "sigla": "HM-2",
       "categoria_nivel": 3.0,
       "categoria_tipo": "HOTEL"
     }
@@ -784,9 +784,9 @@
       "escalera": null,
       "planta": "3",
       "puerta": null,
-      "cdpostal": 28013.0,
+      "cod_postal": 28013.0,
       "localidad": "Madrid",
-      "signatura": "HM-5",
+      "sigla": "HM-5",
       "categoria_nivel": 2.0,
       "categoria_tipo": "HOSTAL"
     }
@@ -806,9 +806,9 @@
       "escalera": null,
       "planta": null,
       "puerta": null,
-      "cdpostal": 28013.0,
+      "cod_postal": 28013.0,
       "localidad": "Madrid",
-      "signatura": "HM-10",
+      "sigla": "HM-10",
       "categoria_nivel": 4.0,
       "categoria_tipo": "HOTEL"
     }
@@ -828,9 +828,9 @@
       "escalera": null,
       "planta": null,
       "puerta": null,
-      "cdpostal": 28013.0,
+      "cod_postal": 28013.0,
       "localidad": "Madrid",
-      "signatura": "HM-13",
+      "sigla": "HM-13",
       "categoria_nivel": 4.0,
       "categoria_tipo": "HOTEL"
     }
@@ -850,9 +850,9 @@
       "escalera": null,
       "planta": "3",
       "puerta": "Izquierda",
-      "cdpostal": 28012.0,
+      "cod_postal": 28012.0,
       "localidad": "Madrid",
-      "signatura": "HM-15",
+      "sigla": "HM-15",
       "categoria_nivel": 1.0,
       "categoria_tipo": "HOSTAL"
     }
@@ -872,9 +872,9 @@
       "escalera": null,
       "planta": null,
       "puerta": null,
-      "cdpostal": 28046.0,
+      "cod_postal": 28046.0,
       "localidad": "Madrid",
-      "signatura": "HM-16",
+      "sigla": "HM-16",
       "categoria_nivel": 5.0,
       "categoria_tipo": "HOTEL"
     }
@@ -894,9 +894,9 @@
       "escalera": null,
       "planta": null,
       "puerta": null,
-      "cdpostal": 28013.0,
+      "cod_postal": 28013.0,
       "localidad": "Madrid",
-      "signatura": "HM-18",
+      "sigla": "HM-18",
       "categoria_nivel": 3.0,
       "categoria_tipo": "HOTEL"
     }
@@ -916,9 +916,9 @@
       "escalera": null,
       "planta": null,
       "puerta": null,
-      "cdpostal": 28045.0,
+      "cod_postal": 28045.0,
       "localidad": "Madrid",
-      "signatura": "HM-23",
+      "sigla": "HM-23",
       "categoria_nivel": 4.0,
       "categoria_tipo": "HOTEL"
     }
@@ -938,9 +938,9 @@
       "escalera": null,
       "planta": null,
       "puerta": null,
-      "cdpostal": 28004.0,
+      "cod_postal": 28004.0,
       "localidad": "Madrid",
-      "signatura": "HM-27",
+      "sigla": "HM-27",
       "categoria_nivel": 3.0,
       "categoria_tipo": "HOTEL"
     }
@@ -960,9 +960,9 @@
       "escalera": null,
       "planta": "2",
       "puerta": null,
-      "cdpostal": 28012.0,
+      "cod_postal": 28012.0,
       "localidad": "Madrid",
-      "signatura": "HM-33",
+      "sigla": "HM-33",
       "categoria_nivel": 2.0,
       "categoria_tipo": "HOSTAL"
     }
@@ -982,9 +982,9 @@
       "escalera": null,
       "planta": "2",
       "puerta": null,
-      "cdpostal": 28012.0,
+      "cod_postal": 28012.0,
       "localidad": "Madrid",
-      "signatura": "HM-35",
+      "sigla": "HM-35",
       "categoria_nivel": 2.0,
       "categoria_tipo": "HOSTAL"
     }
@@ -1004,9 +1004,9 @@
       "escalera": null,
       "planta": null,
       "puerta": null,
-      "cdpostal": 28006.0,
+      "cod_postal": 28006.0,
       "localidad": "Madrid",
-      "signatura": "HM-36",
+      "sigla": "HM-36",
       "categoria_nivel": 5.0,
       "categoria_tipo": "HOTEL"
     }
@@ -1026,9 +1026,9 @@
       "escalera": null,
       "planta": null,
       "puerta": null,
-      "cdpostal": 28013.0,
+      "cod_postal": 28013.0,
       "localidad": "Madrid",
-      "signatura": "HM-37",
+      "sigla": "HM-37",
       "categoria_nivel": 4.0,
       "categoria_tipo": "HOTEL"
     }
@@ -1048,9 +1048,9 @@
       "escalera": null,
       "planta": null,
       "puerta": null,
-      "cdpostal": 28013.0,
+      "cod_postal": 28013.0,
       "localidad": "Madrid",
-      "signatura": "HM-38",
+      "sigla": "HM-38",
       "categoria_nivel": 3.0,
       "categoria_tipo": "HOTEL"
     }
@@ -1070,9 +1070,9 @@
       "escalera": null,
       "planta": "2",
       "puerta": null,
-      "cdpostal": 28013.0,
+      "cod_postal": 28013.0,
       "localidad": "Madrid",
-      "signatura": "HM-39",
+      "sigla": "HM-39",
       "categoria_nivel": 2.0,
       "categoria_tipo": "HOSTAL"
     }
@@ -1092,9 +1092,9 @@
       "escalera": null,
       "planta": null,
       "puerta": null,
-      "cdpostal": 28001.0,
+      "cod_postal": 28001.0,
       "localidad": "Madrid",
-      "signatura": "HM-40",
+      "sigla": "HM-40",
       "categoria_nivel": 5.0,
       "categoria_tipo": "HOTEL"
     }
@@ -1114,9 +1114,9 @@
       "escalera": null,
       "planta": "4",
       "puerta": null,
-      "cdpostal": 28004.0,
+      "cod_postal": 28004.0,
       "localidad": "Madrid",
-      "signatura": "HM-41",
+      "sigla": "HM-41",
       "categoria_nivel": 3.0,
       "categoria_tipo": "HOSTAL"
     }
@@ -1136,9 +1136,9 @@
       "escalera": null,
       "planta": null,
       "puerta": null,
-      "cdpostal": 28013.0,
+      "cod_postal": 28013.0,
       "localidad": "Madrid",
-      "signatura": "HM-42",
+      "sigla": "HM-42",
       "categoria_nivel": 4.0,
       "categoria_tipo": "HOTEL"
     }
@@ -1158,9 +1158,9 @@
       "escalera": null,
       "planta": null,
       "puerta": null,
-      "cdpostal": 28004.0,
+      "cod_postal": 28004.0,
       "localidad": "Madrid",
-      "signatura": "HM-47",
+      "sigla": "HM-47",
       "categoria_nivel": 3.0,
       "categoria_tipo": "HOTEL"
     }
@@ -1180,9 +1180,9 @@
       "escalera": null,
       "planta": null,
       "puerta": null,
-      "cdpostal": 28012.0,
+      "cod_postal": 28012.0,
       "localidad": "Madrid",
-      "signatura": "HM-50",
+      "sigla": "HM-50",
       "categoria_nivel": 3.0,
       "categoria_tipo": "HOTEL"
     }
@@ -1202,9 +1202,9 @@
       "escalera": null,
       "planta": null,
       "puerta": null,
-      "cdpostal": 28008.0,
+      "cod_postal": 28008.0,
       "localidad": "Madrid",
-      "signatura": "HM-51",
+      "sigla": "HM-51",
       "categoria_nivel": 3.0,
       "categoria_tipo": "HOTEL"
     }
@@ -1224,9 +1224,9 @@
       "escalera": null,
       "planta": null,
       "puerta": null,
-      "cdpostal": 28046.0,
+      "cod_postal": 28046.0,
       "localidad": "Madrid",
-      "signatura": "HM-52",
+      "sigla": "HM-52",
       "categoria_nivel": 4.0,
       "categoria_tipo": "HOTEL"
     }
@@ -1246,9 +1246,9 @@
       "escalera": null,
       "planta": "2",
       "puerta": null,
-      "cdpostal": 28004.0,
+      "cod_postal": 28004.0,
       "localidad": "Madrid",
-      "signatura": "HM-56",
+      "sigla": "HM-56",
       "categoria_nivel": 3.0,
       "categoria_tipo": "HOSTAL"
     }
@@ -1268,9 +1268,9 @@
       "escalera": null,
       "planta": null,
       "puerta": null,
-      "cdpostal": null,
+      "cod_postal": null,
       "localidad": "Madrid",
-      "signatura": "HM-57",
+      "sigla": "HM-57",
       "categoria_nivel": 3.0,
       "categoria_tipo": "HOTEL"
     }
@@ -1290,9 +1290,9 @@
       "escalera": null,
       "planta": null,
       "puerta": null,
-      "cdpostal": 28013.0,
+      "cod_postal": 28013.0,
       "localidad": "Madrid",
-      "signatura": "HM-59",
+      "sigla": "HM-59",
       "categoria_nivel": 3.0,
       "categoria_tipo": "HOTEL"
     }
@@ -1312,9 +1312,9 @@
       "escalera": null,
       "planta": null,
       "puerta": null,
-      "cdpostal": 28013.0,
+      "cod_postal": 28013.0,
       "localidad": "Madrid",
-      "signatura": "HM-61",
+      "sigla": "HM-61",
       "categoria_nivel": 3.0,
       "categoria_tipo": "HOTEL"
     }
@@ -1334,9 +1334,9 @@
       "escalera": null,
       "planta": null,
       "puerta": null,
-      "cdpostal": 28013.0,
+      "cod_postal": 28013.0,
       "localidad": "Madrid",
-      "signatura": "HM-63",
+      "sigla": "HM-63",
       "categoria_nivel": 4.0,
       "categoria_tipo": "HOTEL"
     }
@@ -1356,9 +1356,9 @@
       "escalera": null,
       "planta": null,
       "puerta": null,
-      "cdpostal": 28012.0,
+      "cod_postal": 28012.0,
       "localidad": "Madrid",
-      "signatura": "HM-64",
+      "sigla": "HM-64",
       "categoria_nivel": 2.0,
       "categoria_tipo": "HOTEL"
     }
@@ -1378,9 +1378,9 @@
       "escalera": null,
       "planta": null,
       "puerta": null,
-      "cdpostal": 28013.0,
+      "cod_postal": 28013.0,
       "localidad": "Madrid",
-      "signatura": "HM-67",
+      "sigla": "HM-67",
       "categoria_nivel": 3.0,
       "categoria_tipo": "HOTEL"
     }
@@ -1400,9 +1400,9 @@
       "escalera": null,
       "planta": null,
       "puerta": null,
-      "cdpostal": 28014.0,
+      "cod_postal": 28014.0,
       "localidad": "Madrid",
-      "signatura": "HM-71",
+      "sigla": "HM-71",
       "categoria_nivel": 5.0,
       "categoria_tipo": "HOTEL"
     }
@@ -1422,9 +1422,9 @@
       "escalera": null,
       "planta": null,
       "puerta": null,
-      "cdpostal": 28014.0,
+      "cod_postal": 28014.0,
       "localidad": "Madrid",
-      "signatura": "HM-77",
+      "sigla": "HM-77",
       "categoria_nivel": 2.0,
       "categoria_tipo": "HOTEL"
     }
@@ -1444,9 +1444,9 @@
       "escalera": null,
       "planta": null,
       "puerta": null,
-      "cdpostal": 28005.0,
+      "cod_postal": 28005.0,
       "localidad": "Madrid",
-      "signatura": "HM-78",
+      "sigla": "HM-78",
       "categoria_nivel": 3.0,
       "categoria_tipo": "HOTEL"
     }
@@ -1466,9 +1466,9 @@
       "escalera": null,
       "planta": "2",
       "puerta": null,
-      "cdpostal": 28012.0,
+      "cod_postal": 28012.0,
       "localidad": "Madrid",
-      "signatura": "HM-88",
+      "sigla": "HM-88",
       "categoria_nivel": 2.0,
       "categoria_tipo": "HOSTAL"
     }
@@ -1488,9 +1488,9 @@
       "escalera": null,
       "planta": null,
       "puerta": null,
-      "cdpostal": 28004.0,
+      "cod_postal": 28004.0,
       "localidad": "Madrid",
-      "signatura": "HM-92",
+      "sigla": "HM-92",
       "categoria_nivel": 3.0,
       "categoria_tipo": "HOSTAL"
     }
@@ -1510,9 +1510,9 @@
       "escalera": null,
       "planta": null,
       "puerta": null,
-      "cdpostal": 28008.0,
+      "cod_postal": 28008.0,
       "localidad": "Madrid",
-      "signatura": "HM-96",
+      "sigla": "HM-96",
       "categoria_nivel": 3.0,
       "categoria_tipo": "HOTEL"
     }
@@ -1532,9 +1532,9 @@
       "escalera": null,
       "planta": null,
       "puerta": null,
-      "cdpostal": 28001.0,
+      "cod_postal": 28001.0,
       "localidad": "Madrid",
-      "signatura": "HM-101",
+      "sigla": "HM-101",
       "categoria_nivel": 5.0,
       "categoria_tipo": "HOTEL"
     }
@@ -1554,9 +1554,9 @@
       "escalera": null,
       "planta": "3",
       "puerta": null,
-      "cdpostal": 28012.0,
+      "cod_postal": 28012.0,
       "localidad": "Madrid",
-      "signatura": "HM-103",
+      "sigla": "HM-103",
       "categoria_nivel": 2.0,
       "categoria_tipo": "HOSTAL"
     }
@@ -1576,9 +1576,9 @@
       "escalera": null,
       "planta": null,
       "puerta": null,
-      "cdpostal": 28001.0,
+      "cod_postal": 28001.0,
       "localidad": "Madrid",
-      "signatura": "HM-106",
+      "sigla": "HM-106",
       "categoria_nivel": 5.0,
       "categoria_tipo": "HOTEL"
     }
@@ -1598,9 +1598,9 @@
       "escalera": null,
       "planta": null,
       "puerta": null,
-      "cdpostal": 28003.0,
+      "cod_postal": 28003.0,
       "localidad": "Madrid",
-      "signatura": "HM-108",
+      "sigla": "HM-108",
       "categoria_nivel": 4.0,
       "categoria_tipo": "HOTEL"
     }
@@ -1620,9 +1620,9 @@
       "escalera": null,
       "planta": null,
       "puerta": null,
-      "cdpostal": 28014.0,
+      "cod_postal": 28014.0,
       "localidad": "Madrid",
-      "signatura": "HM-109",
+      "sigla": "HM-109",
       "categoria_nivel": 4.0,
       "categoria_tipo": "HOTEL"
     }
@@ -1642,9 +1642,9 @@
       "escalera": null,
       "planta": null,
       "puerta": null,
-      "cdpostal": 28014.0,
+      "cod_postal": 28014.0,
       "localidad": "Madrid",
-      "signatura": "HM-111",
+      "sigla": "HM-111",
       "categoria_nivel": 3.0,
       "categoria_tipo": "HOTEL"
     }
@@ -1664,9 +1664,9 @@
       "escalera": null,
       "planta": null,
       "puerta": null,
-      "cdpostal": 28013.0,
+      "cod_postal": 28013.0,
       "localidad": "Madrid",
-      "signatura": "HM-115",
+      "sigla": "HM-115",
       "categoria_nivel": 2.0,
       "categoria_tipo": "HOTEL"
     }
@@ -1686,9 +1686,9 @@
       "escalera": null,
       "planta": null,
       "puerta": null,
-      "cdpostal": 28014.0,
+      "cod_postal": 28014.0,
       "localidad": "Madrid",
-      "signatura": "HM-118",
+      "sigla": "HM-118",
       "categoria_nivel": 5.0,
       "categoria_tipo": "5 estrellas L"
     }
@@ -1708,9 +1708,9 @@
       "escalera": null,
       "planta": null,
       "puerta": null,
-      "cdpostal": 28014.0,
+      "cod_postal": 28014.0,
       "localidad": "Madrid",
-      "signatura": "HM-123",
+      "sigla": "HM-123",
       "categoria_nivel": 2.0,
       "categoria_tipo": "HOTEL"
     }
@@ -1730,9 +1730,9 @@
       "escalera": null,
       "planta": null,
       "puerta": null,
-      "cdpostal": 28001.0,
+      "cod_postal": 28001.0,
       "localidad": "Madrid",
-      "signatura": "HM-124",
+      "sigla": "HM-124",
       "categoria_nivel": 4.0,
       "categoria_tipo": "HOTEL"
     }
@@ -1752,9 +1752,9 @@
       "escalera": null,
       "planta": "2",
       "puerta": "Derecha",
-      "cdpostal": 28012.0,
+      "cod_postal": 28012.0,
       "localidad": "Madrid",
-      "signatura": "HM-932",
+      "sigla": "HM-932",
       "categoria_nivel": null,
       "categoria_tipo": "CASA HUESPEDES"
     }
@@ -1774,9 +1774,9 @@
       "escalera": null,
       "planta": "5",
       "puerta": null,
-      "cdpostal": 28045.0,
+      "cod_postal": 28045.0,
       "localidad": "Madrid",
-      "signatura": "HM-934",
+      "sigla": "HM-934",
       "categoria_nivel": 1.0,
       "categoria_tipo": "HOSTAL"
     }
@@ -1796,9 +1796,9 @@
       "escalera": null,
       "planta": "2",
       "puerta": "Derecha",
-      "cdpostal": 28005.0,
+      "cod_postal": 28005.0,
       "localidad": "Madrid",
-      "signatura": "HM-935",
+      "sigla": "HM-935",
       "categoria_nivel": 1.0,
       "categoria_tipo": "PENSION"
     }
@@ -1818,9 +1818,9 @@
       "escalera": null,
       "planta": "3",
       "puerta": null,
-      "cdpostal": 28014.0,
+      "cod_postal": 28014.0,
       "localidad": "Madrid",
-      "signatura": "HM-936",
+      "sigla": "HM-936",
       "categoria_nivel": 2.0,
       "categoria_tipo": "HOSTAL"
     }
@@ -1840,9 +1840,9 @@
       "escalera": null,
       "planta": "3",
       "puerta": null,
-      "cdpostal": 28004.0,
+      "cod_postal": 28004.0,
       "localidad": "Madrid",
-      "signatura": "HM-942",
+      "sigla": "HM-942",
       "categoria_nivel": null,
       "categoria_tipo": "CASA HUESPEDES"
     }
@@ -1862,9 +1862,9 @@
       "escalera": null,
       "planta": "2",
       "puerta": null,
-      "cdpostal": 28013.0,
+      "cod_postal": 28013.0,
       "localidad": "Madrid",
-      "signatura": "HM-946",
+      "sigla": "HM-946",
       "categoria_nivel": 2.0,
       "categoria_tipo": "HOSTAL"
     }
@@ -1884,9 +1884,9 @@
       "escalera": null,
       "planta": "1",
       "puerta": null,
-      "cdpostal": 28012.0,
+      "cod_postal": 28012.0,
       "localidad": "Madrid",
-      "signatura": "HM-952",
+      "sigla": "HM-952",
       "categoria_nivel": 2.0,
       "categoria_tipo": "HOSTAL"
     }
@@ -1906,9 +1906,9 @@
       "escalera": null,
       "planta": "4",
       "puerta": "Derecha",
-      "cdpostal": 28013.0,
+      "cod_postal": 28013.0,
       "localidad": "Madrid",
-      "signatura": "HM-959",
+      "sigla": "HM-959",
       "categoria_nivel": null,
       "categoria_tipo": "CASA HUESPEDES"
     }
@@ -1928,9 +1928,9 @@
       "escalera": null,
       "planta": "3",
       "puerta": "Derecha",
-      "cdpostal": 28012.0,
+      "cod_postal": 28012.0,
       "localidad": "Madrid",
-      "signatura": "HM-967",
+      "sigla": "HM-967",
       "categoria_nivel": 1.0,
       "categoria_tipo": "PENSION"
     }
@@ -1950,9 +1950,9 @@
       "escalera": null,
       "planta": "2",
       "puerta": "Derecha",
-      "cdpostal": 28013.0,
+      "cod_postal": 28013.0,
       "localidad": "Madrid",
-      "signatura": "HM-968",
+      "sigla": "HM-968",
       "categoria_nivel": 1.0,
       "categoria_tipo": "PENSION"
     }
@@ -1972,9 +1972,9 @@
       "escalera": null,
       "planta": null,
       "puerta": null,
-      "cdpostal": 28015.0,
+      "cod_postal": 28015.0,
       "localidad": "Madrid",
-      "signatura": "HM-979",
+      "sigla": "HM-979",
       "categoria_nivel": null,
       "categoria_tipo": "CASA HUESPEDES"
     }
@@ -1994,9 +1994,9 @@
       "escalera": null,
       "planta": "4",
       "puerta": "Izquierda",
-      "cdpostal": 28013.0,
+      "cod_postal": 28013.0,
       "localidad": "Madrid",
-      "signatura": "HM-993",
+      "sigla": "HM-993",
       "categoria_nivel": null,
       "categoria_tipo": "CASA HUESPEDES"
     }
@@ -2016,9 +2016,9 @@
       "escalera": null,
       "planta": "2",
       "puerta": null,
-      "cdpostal": 28004.0,
+      "cod_postal": 28004.0,
       "localidad": "Madrid",
-      "signatura": "HM-999",
+      "sigla": "HM-999",
       "categoria_nivel": 1.0,
       "categoria_tipo": "HOSTAL"
     }
@@ -2038,9 +2038,9 @@
       "escalera": null,
       "planta": "5",
       "puerta": "Derecha",
-      "cdpostal": 28013.0,
+      "cod_postal": 28013.0,
       "localidad": "Madrid",
-      "signatura": "HM-1000",
+      "sigla": "HM-1000",
       "categoria_nivel": 2.0,
       "categoria_tipo": "HOSTAL"
     }
@@ -2060,9 +2060,9 @@
       "escalera": null,
       "planta": "2",
       "puerta": "Izquierda",
-      "cdpostal": 28013.0,
+      "cod_postal": 28013.0,
       "localidad": "Madrid",
-      "signatura": "HM-1065",
+      "sigla": "HM-1065",
       "categoria_nivel": null,
       "categoria_tipo": "CASA HUESPEDES"
     }
@@ -2082,9 +2082,9 @@
       "escalera": null,
       "planta": "2",
       "puerta": "Izquierda",
-      "cdpostal": 28015.0,
+      "cod_postal": 28015.0,
       "localidad": "Madrid",
-      "signatura": "HM-1072",
+      "sigla": "HM-1072",
       "categoria_nivel": 1.0,
       "categoria_tipo": "HOSTAL"
     }
@@ -2104,9 +2104,9 @@
       "escalera": null,
       "planta": "3",
       "puerta": "Derecha",
-      "cdpostal": 28012.0,
+      "cod_postal": 28012.0,
       "localidad": "Madrid",
-      "signatura": "HM-1086",
+      "sigla": "HM-1086",
       "categoria_nivel": null,
       "categoria_tipo": "CASA HUESPEDES"
     }
@@ -2126,9 +2126,9 @@
       "escalera": null,
       "planta": "4",
       "puerta": null,
-      "cdpostal": null,
+      "cod_postal": null,
       "localidad": "Madrid",
-      "signatura": "HM-1115",
+      "sigla": "HM-1115",
       "categoria_nivel": null,
       "categoria_tipo": "CASA HUESPEDES"
     }
@@ -2148,9 +2148,9 @@
       "escalera": null,
       "planta": "2",
       "puerta": null,
-      "cdpostal": 28004.0,
+      "cod_postal": 28004.0,
       "localidad": "Madrid",
-      "signatura": "HM-1133",
+      "sigla": "HM-1133",
       "categoria_nivel": null,
       "categoria_tipo": "CASA HUESPEDES"
     }
@@ -2170,9 +2170,9 @@
       "escalera": null,
       "planta": null,
       "puerta": null,
-      "cdpostal": 28020.0,
+      "cod_postal": 28020.0,
       "localidad": "Madrid",
-      "signatura": "HM-1156",
+      "sigla": "HM-1156",
       "categoria_nivel": 1.0,
       "categoria_tipo": "HOSTAL"
     }
@@ -2192,9 +2192,9 @@
       "escalera": null,
       "planta": "1",
       "puerta": null,
-      "cdpostal": 28012.0,
+      "cod_postal": 28012.0,
       "localidad": "Madrid",
-      "signatura": "HM-1159",
+      "sigla": "HM-1159",
       "categoria_nivel": 1.0,
       "categoria_tipo": "HOSTAL"
     }
